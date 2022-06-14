@@ -1,0 +1,1001 @@
+existingchecking	duration	credithistory	purpose	creditamount	savings	employmentsince	installmentrate	otherdebts	residencesince	property	otherinstallmentplans	housing	existingcredits	job	peopleliable	telephone	foreignworker	classification	gender
+x < 0 DM	6	critical accnt. / other credits	radio/tv	1169	unknown	x >= 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	48	existing credits paid	radio/tv	5951	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	0	F
+no checking account	12	critical accnt. / other credits	education	2096	x < 100 DM	4 <= x < 7 years	2	none	3	real estate	none	own	1	unskilled-resident	2	none	yes	1	M
+x < 0 DM	42	existing credits paid	forniture	7882	x < 100 DM	4 <= x < 7 years	2	guarantor	4	soc. savings / life insurance	none	for free	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	24	delay	new car	4870	x < 100 DM	1 <= x < 4 years	3	none	4	unknown	none	for free	2	skilled employee / official	2	none	yes	0	M
+no checking account	36	existing credits paid	education	9055	unknown	1 <= x < 4 years	2	none	4	unknown	none	for free	1	unskilled-resident	2	yes	yes	1	M
+no checking account	24	existing credits paid	forniture	2835	500 <= x < 1000 DM	x >= 7 years	3	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	36	existing credits paid	used car	6948	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	12	existing credits paid	radio/tv	3059	x >= 1000 DM	4 <= x < 7 years	2	none	4	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	30	critical accnt. / other credits	new car	5234	x < 100 DM	unemployed	4	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	none	yes	0	M
+0 <= x < 200 DM	12	existing credits paid	new car	1295	x < 100 DM	x < 1 year	3	none	1	car or other	none	rent	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	48	existing credits paid	business	4308	x < 100 DM	x < 1 year	3	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1567	x < 100 DM	1 <= x < 4 years	1	none	1	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	24	critical accnt. / other credits	new car	1199	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	2	unskilled-resident	1	none	yes	0	M
+x < 0 DM	15	existing credits paid	new car	1403	x < 100 DM	1 <= x < 4 years	2	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	24	existing credits paid	radio/tv	1282	100 <= x < 500 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	unskilled-resident	1	none	yes	0	F
+no checking account	24	critical accnt. / other credits	radio/tv	2424	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	30	no credits	business	8072	unknown	x < 1 year	2	none	3	car or other	bank	own	3	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	used car	12579	x < 100 DM	x >= 7 years	4	none	2	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+no checking account	24	existing credits paid	radio/tv	3430	500 <= x < 1000 DM	x >= 7 years	3	none	2	car or other	none	own	1	skilled employee / official	2	yes	yes	1	M
+no checking account	9	critical accnt. / other credits	new car	2134	x < 100 DM	1 <= x < 4 years	4	none	4	car or other	none	own	3	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	6	existing credits paid	radio/tv	2647	500 <= x < 1000 DM	1 <= x < 4 years	2	none	3	real estate	none	rent	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	10	critical accnt. / other credits	new car	2241	x < 100 DM	x < 1 year	1	none	3	real estate	none	rent	2	unskilled-resident	2	none	no	1	M
+0 <= x < 200 DM	12	critical accnt. / other credits	used car	1804	100 <= x < 500 DM	x < 1 year	3	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	10	critical accnt. / other credits	forniture	2069	unknown	1 <= x < 4 years	2	none	1	car or other	none	own	2	skilled employee / official	1	none	no	1	M
+x < 0 DM	6	existing credits paid	forniture	1374	x < 100 DM	1 <= x < 4 years	1	none	2	real estate	bank	own	1	unskilled-resident	1	yes	yes	1	M
+no checking account	6	no credits	radio/tv	426	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	unskilled-resident	1	none	yes	1	M
+x >= 200DM	12	all credits paid	radio/tv	409	x >= 1000 DM	1 <= x < 4 years	3	none	3	real estate	none	rent	2	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	7	existing credits paid	radio/tv	2415	x < 100 DM	1 <= x < 4 years	3	guarantor	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	60	delay	business	6836	x < 100 DM	x >= 7 years	3	none	4	unknown	none	own	2	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	18	existing credits paid	business	1913	x >= 1000 DM	x < 1 year	3	none	3	real estate	bank	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	24	existing credits paid	forniture	4020	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	stores	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	new car	5866	100 <= x < 500 DM	1 <= x < 4 years	2	none	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	12	critical accnt. / other credits	business	1264	unknown	x >= 7 years	4	none	4	unknown	none	rent	1	unskilled-resident	1	none	yes	1	M
+x >= 200DM	12	existing credits paid	forniture	1474	x < 100 DM	x < 1 year	4	none	1	soc. savings / life insurance	bank	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+0 <= x < 200 DM	45	critical accnt. / other credits	radio/tv	4746	x < 100 DM	x < 1 year	4	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	0	M
+no checking account	48	critical accnt. / other credits	education	6110	x < 100 DM	1 <= x < 4 years	1	none	3	unknown	bank	for free	1	skilled employee / official	1	yes	yes	1	M
+x >= 200DM	18	existing credits paid	radio/tv	2100	x < 100 DM	1 <= x < 4 years	4	co-applicant	2	real estate	stores	own	1	skilled employee / official	1	none	yes	0	M
+x >= 200DM	10	existing credits paid	appliances	1225	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	9	existing credits paid	radio/tv	458	x < 100 DM	1 <= x < 4 years	4	none	3	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	30	existing credits paid	radio/tv	2333	500 <= x < 1000 DM	x >= 7 years	4	none	2	car or other	bank	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1158	500 <= x < 1000 DM	1 <= x < 4 years	3	none	1	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	18	delay	repairs	6204	x < 100 DM	1 <= x < 4 years	2	none	4	real estate	none	own	1	unskilled-resident	2	yes	yes	1	M
+x < 0 DM	30	critical accnt. / other credits	used car	6187	100 <= x < 500 DM	4 <= x < 7 years	1	none	4	car or other	none	rent	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	48	critical accnt. / other credits	used car	6143	x < 100 DM	x >= 7 years	4	none	4	unknown	stores	for free	2	unskilled-resident	1	none	yes	0	F
+no checking account	11	critical accnt. / other credits	new car	1393	x < 100 DM	x < 1 year	4	none	4	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	none	yes	1	F
+no checking account	36	existing credits paid	radio/tv	2299	500 <= x < 1000 DM	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	6	existing credits paid	used car	1352	500 <= x < 1000 DM	unemployed	1	none	2	soc. savings / life insurance	none	rent	1	unemployed / unskilled-non-resident	1	yes	yes	1	F
+no checking account	11	critical accnt. / other credits	new car	7228	x < 100 DM	1 <= x < 4 years	1	none	4	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	12	existing credits paid	radio/tv	2073	100 <= x < 500 DM	1 <= x < 4 years	4	co-applicant	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	24	delay	forniture	2333	unknown	x < 1 year	4	none	2	soc. savings / life insurance	bank	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	27	delay	used car	5965	x < 100 DM	x >= 7 years	1	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	12	existing credits paid	radio/tv	1262	x < 100 DM	1 <= x < 4 years	3	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	18	existing credits paid	used car	3378	unknown	1 <= x < 4 years	2	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	36	delay	new car	2225	x < 100 DM	x >= 7 years	4	none	4	unknown	bank	for free	2	skilled employee / official	1	yes	yes	0	M
+no checking account	6	all credits paid	new car	783	unknown	1 <= x < 4 years	1	guarantor	2	real estate	stores	own	1	unskilled-resident	2	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	radio/tv	6468	unknown	unemployed	2	none	1	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	36	critical accnt. / other credits	radio/tv	9566	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	stores	own	2	skilled employee / official	1	none	yes	1	F
+x >= 200DM	18	existing credits paid	new car	1961	x < 100 DM	x >= 7 years	3	none	2	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	F
+x < 0 DM	36	critical accnt. / other credits	forniture	6229	x < 100 DM	x < 1 year	4	co-applicant	4	unknown	none	rent	2	unskilled-resident	1	yes	yes	0	F
+0 <= x < 200 DM	9	existing credits paid	business	1391	x < 100 DM	1 <= x < 4 years	2	none	1	real estate	bank	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	15	critical accnt. / other credits	radio/tv	1537	unknown	x >= 7 years	4	guarantor	4	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	36	no credits	business	1953	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+0 <= x < 200 DM	48	no credits	business	14421	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	0	M
+no checking account	24	existing credits paid	radio/tv	3181	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	F
+no checking account	27	existing credits paid	repairs	5190	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	4	skilled employee / official	2	yes	yes	1	M
+no checking account	12	existing credits paid	radio/tv	2171	x < 100 DM	x < 1 year	2	none	2	car or other	bank	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	new car	1007	x >= 1000 DM	1 <= x < 4 years	4	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	36	existing credits paid	education	1819	x < 100 DM	1 <= x < 4 years	4	none	4	unknown	stores	for free	1	skilled employee / official	1	yes	yes	0	M
+no checking account	36	existing credits paid	radio/tv	2394	unknown	1 <= x < 4 years	4	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	36	existing credits paid	used car	8133	x < 100 DM	1 <= x < 4 years	1	none	2	soc. savings / life insurance	bank	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	7	critical accnt. / other credits	radio/tv	730	unknown	x >= 7 years	4	none	2	soc. savings / life insurance	none	rent	2	unskilled-resident	1	yes	yes	1	M
+x < 0 DM	8	critical accnt. / other credits	others	1164	x < 100 DM	x >= 7 years	3	none	4	unknown	bank	for free	2	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+0 <= x < 200 DM	42	critical accnt. / other credits	business	5954	x < 100 DM	4 <= x < 7 years	2	none	1	real estate	bank	own	2	unskilled-resident	1	none	yes	1	F
+x < 0 DM	36	existing credits paid	education	1977	unknown	x >= 7 years	4	none	4	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+x < 0 DM	12	critical accnt. / other credits	used car	1526	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	2	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+x < 0 DM	42	existing credits paid	radio/tv	3965	x < 100 DM	x < 1 year	4	none	3	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	11	delay	radio/tv	4771	x < 100 DM	4 <= x < 7 years	2	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	54	no credits	used car	9436	unknown	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	own	1	unskilled-resident	2	none	yes	1	M
+0 <= x < 200 DM	30	existing credits paid	forniture	3832	x < 100 DM	x < 1 year	2	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	radio/tv	5943	unknown	x < 1 year	1	none	1	car or other	none	own	2	skilled employee / official	1	yes	yes	0	F
+no checking account	15	existing credits paid	radio/tv	1213	500 <= x < 1000 DM	x >= 7 years	4	none	3	soc. savings / life insurance	stores	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	18	existing credits paid	business	1568	100 <= x < 500 DM	1 <= x < 4 years	3	none	4	soc. savings / life insurance	none	rent	1	unskilled-resident	1	none	yes	1	F
+x < 0 DM	24	existing credits paid	others	1755	x < 100 DM	x >= 7 years	4	guarantor	4	real estate	none	own	1	unskilled-resident	1	yes	yes	1	F
+x < 0 DM	10	existing credits paid	radio/tv	2315	x < 100 DM	x >= 7 years	3	none	4	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	12	critical accnt. / other credits	business	1412	x < 100 DM	1 <= x < 4 years	4	guarantor	2	real estate	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+0 <= x < 200 DM	18	critical accnt. / other credits	forniture	1295	x < 100 DM	x < 1 year	4	none	1	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	36	existing credits paid	education	12612	100 <= x < 500 DM	1 <= x < 4 years	1	none	4	unknown	none	for free	1	skilled employee / official	2	yes	yes	0	M
+x < 0 DM	18	existing credits paid	new car	2249	100 <= x < 500 DM	4 <= x < 7 years	4	none	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+x < 0 DM	12	no credits	repairs	1108	x < 100 DM	4 <= x < 7 years	4	none	3	real estate	none	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	12	critical accnt. / other credits	radio/tv	618	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	12	critical accnt. / other credits	used car	1409	x < 100 DM	x >= 7 years	4	none	3	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	12	critical accnt. / other credits	radio/tv	797	unknown	x >= 7 years	4	none	3	soc. savings / life insurance	bank	own	1	unskilled-resident	2	none	yes	0	F
+x >= 200DM	24	critical accnt. / other credits	forniture	3617	unknown	x >= 7 years	4	co-applicant	4	unknown	none	rent	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	new car	1318	x >= 1000 DM	x >= 7 years	4	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	54	no credits	business	15945	x < 100 DM	x < 1 year	3	none	4	unknown	none	rent	1	skilled employee / official	1	yes	yes	0	M
+no checking account	12	critical accnt. / other credits	education	2012	unknown	4 <= x < 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	18	existing credits paid	business	2622	100 <= x < 500 DM	1 <= x < 4 years	4	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	36	critical accnt. / other credits	radio/tv	2337	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	20	delay	used car	7057	unknown	4 <= x < 7 years	3	none	4	soc. savings / life insurance	bank	rent	2	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+no checking account	24	existing credits paid	new car	1469	100 <= x < 500 DM	x >= 7 years	4	none	4	real estate	none	rent	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	36	existing credits paid	radio/tv	2323	x < 100 DM	4 <= x < 7 years	4	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	1	M
+no checking account	6	delay	radio/tv	932	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	9	critical accnt. / other credits	forniture	1919	x < 100 DM	4 <= x < 7 years	4	none	3	car or other	none	rent	1	skilled employee / official	1	yes	yes	1	M
+no checking account	12	existing credits paid	used car	2445	unknown	x < 1 year	2	none	4	car or other	none	rent	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	24	critical accnt. / other credits	others	11938	x < 100 DM	1 <= x < 4 years	2	co-applicant	3	car or other	none	own	2	management / self-employed / highly qualified employee / officer	2	yes	yes	0	M
+no checking account	18	all credits paid	new car	6458	x < 100 DM	x >= 7 years	2	none	4	unknown	bank	own	2	management / self-employed / highly qualified employee / officer	2	yes	yes	0	M
+0 <= x < 200 DM	12	existing credits paid	new car	6078	x < 100 DM	4 <= x < 7 years	2	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	24	existing credits paid	forniture	7721	unknown	x < 1 year	1	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	no	1	F
+0 <= x < 200 DM	14	existing credits paid	business	1410	500 <= x < 1000 DM	x >= 7 years	1	none	2	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	6	delay	business	1449	100 <= x < 500 DM	x >= 7 years	1	none	2	car or other	bank	own	2	skilled employee / official	2	none	yes	1	M
+x >= 200DM	15	existing credits paid	education	392	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	18	existing credits paid	new car	6260	x < 100 DM	4 <= x < 7 years	3	none	3	real estate	none	rent	1	unskilled-resident	1	none	yes	1	M
+no checking account	36	critical accnt. / other credits	new car	7855	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	stores	own	2	skilled employee / official	1	yes	yes	0	F
+x < 0 DM	12	existing credits paid	radio/tv	1680	500 <= x < 1000 DM	x >= 7 years	3	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	48	critical accnt. / other credits	radio/tv	3578	unknown	x >= 7 years	4	none	1	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	42	existing credits paid	radio/tv	7174	unknown	4 <= x < 7 years	4	none	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+x < 0 DM	10	critical accnt. / other credits	forniture	2132	unknown	x < 1 year	2	co-applicant	3	real estate	none	rent	2	skilled employee / official	1	none	no	1	F
+x < 0 DM	33	critical accnt. / other credits	forniture	4281	500 <= x < 1000 DM	1 <= x < 4 years	1	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	12	critical accnt. / other credits	new car	2366	500 <= x < 1000 DM	4 <= x < 7 years	3	none	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	21	existing credits paid	radio/tv	1835	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	2	skilled employee / official	1	yes	yes	0	F
+no checking account	24	critical accnt. / other credits	used car	3868	x < 100 DM	x >= 7 years	4	none	2	car or other	none	rent	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+no checking account	12	existing credits paid	forniture	1768	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	rent	1	unskilled-resident	1	none	yes	1	M
+x >= 200DM	10	critical accnt. / other credits	new car	781	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	forniture	1924	unknown	x < 1 year	4	none	3	real estate	none	rent	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	12	critical accnt. / other credits	new car	2121	x < 100 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	12	existing credits paid	radio/tv	701	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	repairs	639	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	12	critical accnt. / other credits	used car	1860	x < 100 DM	unemployed	4	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	12	critical accnt. / other credits	new car	3499	x < 100 DM	1 <= x < 4 years	3	co-applicant	2	real estate	none	own	2	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	48	existing credits paid	new car	8487	unknown	4 <= x < 7 years	1	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	36	delay	education	6887	x < 100 DM	1 <= x < 4 years	4	none	3	soc. savings / life insurance	stores	own	1	skilled employee / official	1	yes	yes	0	M
+no checking account	15	existing credits paid	forniture	2708	x < 100 DM	x < 1 year	2	none	3	soc. savings / life insurance	bank	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	18	existing credits paid	forniture	1984	x < 100 DM	1 <= x < 4 years	4	none	4	unknown	bank	for free	2	skilled employee / official	1	none	yes	1	M
+no checking account	60	existing credits paid	radio/tv	10144	100 <= x < 500 DM	4 <= x < 7 years	2	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	F
+no checking account	12	critical accnt. / other credits	radio/tv	1240	unknown	x >= 7 years	4	none	2	real estate	none	own	2	skilled employee / official	1	yes	yes	1	F
+no checking account	27	delay	used car	8613	x >= 1000 DM	1 <= x < 4 years	2	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	radio/tv	766	500 <= x < 1000 DM	1 <= x < 4 years	4	none	3	real estate	none	own	1	unskilled-resident	1	none	yes	0	M
+0 <= x < 200 DM	15	critical accnt. / other credits	radio/tv	2728	unknown	4 <= x < 7 years	4	guarantor	2	real estate	bank	own	3	skilled employee / official	1	yes	yes	1	M
+x >= 200DM	12	existing credits paid	radio/tv	1881	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	rent	1	unskilled-resident	1	yes	yes	1	F
+x >= 200DM	6	existing credits paid	new car	709	x >= 1000 DM	x < 1 year	2	none	2	real estate	none	own	1	unemployed / unskilled-non-resident	1	none	no	1	M
+0 <= x < 200 DM	36	existing credits paid	radio/tv	4795	x < 100 DM	x < 1 year	4	none	1	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+x < 0 DM	27	existing credits paid	radio/tv	3416	x < 100 DM	1 <= x < 4 years	3	none	2	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+x < 0 DM	18	existing credits paid	forniture	2462	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	21	critical accnt. / other credits	forniture	2288	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	48	all credits paid	business	3566	100 <= x < 500 DM	4 <= x < 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	6	critical accnt. / other credits	new car	860	x < 100 DM	x >= 7 years	1	none	4	unknown	none	own	2	skilled employee / official	1	yes	yes	1	F
+no checking account	12	critical accnt. / other credits	new car	682	100 <= x < 500 DM	4 <= x < 7 years	4	none	3	car or other	none	own	2	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	36	critical accnt. / other credits	forniture	5371	x < 100 DM	1 <= x < 4 years	3	guarantor	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	1582	x >= 1000 DM	x >= 7 years	4	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	6	existing credits paid	radio/tv	1346	100 <= x < 500 DM	x >= 7 years	2	none	4	unknown	bank	for free	1	skilled employee / official	2	yes	yes	1	M
+no checking account	10	existing credits paid	radio/tv	1924	x < 100 DM	1 <= x < 4 years	1	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	no	1	M
+x >= 200DM	36	existing credits paid	radio/tv	5848	x < 100 DM	1 <= x < 4 years	4	none	1	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	24	critical accnt. / other credits	used car	7758	x >= 1000 DM	x >= 7 years	2	none	4	unknown	none	rent	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	24	delay	business	6967	100 <= x < 500 DM	4 <= x < 7 years	4	none	4	car or other	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	forniture	1282	x < 100 DM	1 <= x < 4 years	2	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	9	critical accnt. / other credits	repairs	1288	100 <= x < 500 DM	x >= 7 years	3	guarantor	4	real estate	none	own	2	skilled employee / official	2	none	no	1	M
+x < 0 DM	12	all credits paid	retraining	339	x < 100 DM	x >= 7 years	4	none	1	car or other	bank	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	new car	3512	100 <= x < 500 DM	4 <= x < 7 years	2	none	3	car or other	bank	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	6	critical accnt. / other credits	radio/tv	1898	unknown	1 <= x < 4 years	1	none	2	real estate	none	own	2	unskilled-resident	2	none	yes	1	M
+no checking account	24	critical accnt. / other credits	radio/tv	2872	100 <= x < 500 DM	x >= 7 years	3	none	4	real estate	none	own	1	skilled employee / official	2	yes	yes	1	M
+no checking account	18	critical accnt. / other credits	new car	1055	x < 100 DM	x < 1 year	4	none	1	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	15	existing credits paid	appliances	1262	500 <= x < 1000 DM	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	10	existing credits paid	new car	7308	x < 100 DM	unemployed	2	none	4	unknown	bank	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	36	existing credits paid	new car	909	500 <= x < 1000 DM	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	6	existing credits paid	forniture	2978	500 <= x < 1000 DM	1 <= x < 4 years	1	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	18	existing credits paid	forniture	1131	x < 100 DM	unemployed	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	11	existing credits paid	forniture	1577	x >= 1000 DM	x < 1 year	4	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	24	existing credits paid	forniture	3972	x < 100 DM	4 <= x < 7 years	2	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	24	critical accnt. / other credits	business	1935	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	15	no credits	new car	950	x < 100 DM	x >= 7 years	4	none	3	car or other	none	rent	2	skilled employee / official	2	none	yes	0	M
+no checking account	12	existing credits paid	forniture	763	x < 100 DM	1 <= x < 4 years	4	none	1	real estate	none	own	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	24	delay	forniture	2064	x < 100 DM	unemployed	3	none	2	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+0 <= x < 200 DM	8	existing credits paid	radio/tv	1414	x < 100 DM	1 <= x < 4 years	4	guarantor	2	real estate	none	own	1	skilled employee / official	1	none	no	1	M
+x < 0 DM	21	delay	education	3414	x < 100 DM	x < 1 year	2	none	1	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	30	all credits paid	used car	7485	unknown	unemployed	4	none	1	real estate	bank	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+x < 0 DM	12	existing credits paid	forniture	2577	x < 100 DM	1 <= x < 4 years	2	none	1	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	6	critical accnt. / other credits	radio/tv	338	500 <= x < 1000 DM	x >= 7 years	4	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	12	existing credits paid	radio/tv	1963	x < 100 DM	4 <= x < 7 years	4	none	2	car or other	none	rent	2	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+x < 0 DM	21	critical accnt. / other credits	new car	571	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	36	delay	business	9572	x < 100 DM	x < 1 year	1	none	1	car or other	none	own	2	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	36	delay	business	4455	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	stores	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+x < 0 DM	21	all credits paid	new car	1647	unknown	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	2	none	yes	0	M
+no checking account	24	critical accnt. / other credits	forniture	3777	x >= 1000 DM	1 <= x < 4 years	4	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	18	critical accnt. / other credits	new car	884	x < 100 DM	x >= 7 years	4	none	4	car or other	bank	own	1	skilled employee / official	2	yes	yes	0	M
+no checking account	15	critical accnt. / other credits	radio/tv	1360	x < 100 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	9	all credits paid	used car	5129	x < 100 DM	x >= 7 years	2	none	4	unknown	bank	for free	1	management / self-employed / highly qualified employee / officer	2	yes	yes	0	F
+0 <= x < 200 DM	16	critical accnt. / other credits	new car	1175	x < 100 DM	unemployed	2	none	3	car or other	none	for free	3	unemployed / unskilled-non-resident	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	radio/tv	674	100 <= x < 500 DM	4 <= x < 7 years	4	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	18	no credits	forniture	3244	x < 100 DM	1 <= x < 4 years	1	none	4	car or other	bank	own	2	skilled employee / official	1	yes	yes	1	F
+no checking account	24	existing credits paid	business	4591	x >= 1000 DM	1 <= x < 4 years	2	none	3	soc. savings / life insurance	none	own	3	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+0 <= x < 200 DM	48	no credits	business	3844	100 <= x < 500 DM	4 <= x < 7 years	4	none	4	unknown	none	for free	1	unskilled-resident	2	none	yes	0	M
+0 <= x < 200 DM	27	existing credits paid	business	3915	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	2	yes	yes	0	M
+no checking account	6	existing credits paid	radio/tv	2108	x < 100 DM	4 <= x < 7 years	2	none	2	real estate	none	rent	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	45	existing credits paid	radio/tv	3031	100 <= x < 500 DM	1 <= x < 4 years	4	guarantor	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	9	critical accnt. / other credits	education	1501	x < 100 DM	x >= 7 years	2	none	3	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+no checking account	6	critical accnt. / other credits	radio/tv	1382	x < 100 DM	1 <= x < 4 years	1	none	1	car or other	none	own	2	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	forniture	951	100 <= x < 500 DM	x < 1 year	4	none	4	car or other	bank	rent	4	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	24	existing credits paid	used car	2760	unknown	x >= 7 years	4	none	4	unknown	bank	for free	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	18	delay	forniture	4297	x < 100 DM	x >= 7 years	4	none	3	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	9	critical accnt. / other credits	education	936	500 <= x < 1000 DM	x >= 7 years	4	none	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	new car	1168	x < 100 DM	1 <= x < 4 years	4	none	3	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	27	delay	business	5117	x < 100 DM	4 <= x < 7 years	3	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	12	existing credits paid	retraining	902	x < 100 DM	4 <= x < 7 years	4	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	0	M
+no checking account	12	critical accnt. / other credits	new car	1495	x < 100 DM	x >= 7 years	4	none	1	real estate	none	own	2	unskilled-resident	2	none	yes	1	M
+x < 0 DM	30	critical accnt. / other credits	used car	10623	x < 100 DM	x >= 7 years	3	none	4	unknown	none	for free	3	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+no checking account	12	critical accnt. / other credits	forniture	1935	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	3	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	12	critical accnt. / other credits	appliances	1424	x < 100 DM	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	24	existing credits paid	business	6568	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	stores	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	12	existing credits paid	used car	1413	x >= 1000 DM	4 <= x < 7 years	3	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	no	1	M
+no checking account	9	critical accnt. / other credits	radio/tv	3074	unknown	1 <= x < 4 years	1	none	2	real estate	none	own	2	skilled employee / official	2	none	yes	1	M
+no checking account	36	existing credits paid	radio/tv	3835	unknown	x >= 7 years	2	none	4	real estate	none	own	1	unskilled-resident	1	yes	yes	1	F
+x < 0 DM	27	no credits	business	5293	x < 100 DM	unemployed	2	none	4	soc. savings / life insurance	stores	own	2	skilled employee / official	1	yes	yes	0	M
+x >= 200DM	30	delay	business	1908	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	36	critical accnt. / other credits	radio/tv	3342	unknown	x >= 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	6	critical accnt. / other credits	retraining	932	unknown	4 <= x < 7 years	1	none	3	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	F
+x < 0 DM	18	no credits	business	3104	x < 100 DM	4 <= x < 7 years	3	none	1	soc. savings / life insurance	bank	own	1	skilled employee / official	1	yes	yes	1	M
+x >= 200DM	36	existing credits paid	radio/tv	3913	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	24	existing credits paid	forniture	3021	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	rent	1	unskilled-resident	1	none	yes	1	M
+no checking account	10	existing credits paid	new car	1364	x < 100 DM	1 <= x < 4 years	2	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	radio/tv	625	x < 100 DM	x < 1 year	4	guarantor	1	real estate	bank	own	1	unskilled-resident	1	none	yes	1	M
+x < 0 DM	12	existing credits paid	education	1200	unknown	1 <= x < 4 years	4	none	4	soc. savings / life insurance	bank	rent	1	skilled employee / official	1	yes	yes	1	F
+no checking account	12	existing credits paid	radio/tv	707	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	bank	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	delay	business	2978	unknown	1 <= x < 4 years	4	none	4	real estate	none	own	2	skilled employee / official	2	yes	yes	1	M
+no checking account	15	existing credits paid	used car	4657	x < 100 DM	1 <= x < 4 years	3	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	36	no credits	repairs	2613	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	48	existing credits paid	radio/tv	10961	x >= 1000 DM	4 <= x < 7 years	1	co-applicant	2	unknown	bank	own	2	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	12	existing credits paid	forniture	7865	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	9	existing credits paid	radio/tv	1478	x < 100 DM	4 <= x < 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	24	existing credits paid	forniture	3149	x < 100 DM	x < 1 year	4	none	1	unknown	bank	for free	1	skilled employee / official	1	none	yes	1	M
+x >= 200DM	36	existing credits paid	radio/tv	4210	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	9	existing credits paid	new car	2507	500 <= x < 1000 DM	x >= 7 years	2	none	4	unknown	none	for free	1	unskilled-resident	1	none	yes	1	M
+no checking account	12	existing credits paid	radio/tv	2141	100 <= x < 500 DM	4 <= x < 7 years	3	none	1	unknown	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	radio/tv	866	x < 100 DM	1 <= x < 4 years	4	guarantor	2	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	4	critical accnt. / other credits	radio/tv	1544	x < 100 DM	4 <= x < 7 years	2	none	1	real estate	none	own	3	unskilled-resident	2	none	yes	1	M
+x < 0 DM	24	existing credits paid	radio/tv	1823	x < 100 DM	unemployed	4	none	2	car or other	stores	own	1	management / self-employed / highly qualified employee / officer	2	none	yes	0	M
+0 <= x < 200 DM	6	existing credits paid	new car	14555	unknown	unemployed	1	none	2	soc. savings / life insurance	none	own	1	unemployed / unskilled-non-resident	1	yes	yes	0	M
+0 <= x < 200 DM	21	existing credits paid	business	2767	100 <= x < 500 DM	x >= 7 years	4	none	2	car or other	bank	rent	2	unskilled-resident	1	none	yes	0	M
+no checking account	12	critical accnt. / other credits	radio/tv	1291	x < 100 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	F
+x < 0 DM	30	existing credits paid	radio/tv	2522	x < 100 DM	x >= 7 years	1	guarantor	3	soc. savings / life insurance	none	own	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	24	existing credits paid	new car	915	unknown	x >= 7 years	4	none	2	car or other	bank	own	1	skilled employee / official	1	none	yes	0	F
+no checking account	6	existing credits paid	radio/tv	1595	x < 100 DM	4 <= x < 7 years	3	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	48	no credits	used car	4605	x < 100 DM	x >= 7 years	3	none	4	unknown	none	for free	2	skilled employee / official	2	none	yes	0	M
+no checking account	12	critical accnt. / other credits	business	1185	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	12	all credits paid	retraining	3447	500 <= x < 1000 DM	1 <= x < 4 years	4	none	3	real estate	none	own	1	unskilled-resident	2	none	yes	1	F
+no checking account	24	existing credits paid	business	1258	x < 100 DM	4 <= x < 7 years	4	none	1	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	12	critical accnt. / other credits	radio/tv	717	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	3	skilled employee / official	1	none	yes	1	M
+no checking account	6	no credits	new car	1204	100 <= x < 500 DM	1 <= x < 4 years	4	none	1	unknown	bank	rent	1	skilled employee / official	1	none	no	1	M
+x >= 200DM	24	existing credits paid	forniture	1925	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	18	existing credits paid	radio/tv	433	x < 100 DM	unemployed	3	co-applicant	4	real estate	none	rent	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	6	critical accnt. / other credits	new car	666	x >= 1000 DM	4 <= x < 7 years	3	none	4	real estate	none	own	2	unskilled-resident	1	yes	yes	1	F
+x >= 200DM	12	existing credits paid	forniture	2251	x < 100 DM	1 <= x < 4 years	1	none	2	car or other	none	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	30	existing credits paid	new car	2150	x < 100 DM	1 <= x < 4 years	4	guarantor	2	unknown	bank	own	1	skilled employee / official	1	none	yes	0	F
+no checking account	24	delay	forniture	4151	100 <= x < 500 DM	1 <= x < 4 years	2	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	9	existing credits paid	forniture	2030	unknown	4 <= x < 7 years	2	none	1	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	60	delay	radio/tv	7418	unknown	1 <= x < 4 years	1	none	1	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	24	critical accnt. / other credits	radio/tv	2684	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	2	unskilled-resident	1	none	yes	1	M
+x < 0 DM	12	all credits paid	radio/tv	2149	x < 100 DM	1 <= x < 4 years	4	none	1	unknown	none	for free	1	skilled employee / official	1	none	yes	0	M
+no checking account	15	existing credits paid	used car	3812	100 <= x < 500 DM	x < 1 year	1	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+no checking account	11	critical accnt. / other credits	radio/tv	1154	100 <= x < 500 DM	unemployed	4	none	4	real estate	none	own	3	unskilled-resident	1	none	yes	1	F
+x < 0 DM	12	existing credits paid	forniture	1657	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	24	existing credits paid	radio/tv	1603	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	18	critical accnt. / other credits	new car	5302	x < 100 DM	x >= 7 years	2	none	4	unknown	none	for free	3	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	12	critical accnt. / other credits	education	2748	x < 100 DM	x >= 7 years	2	none	4	unknown	bank	for free	3	unskilled-resident	1	none	yes	1	F
+no checking account	10	critical accnt. / other credits	new car	1231	x < 100 DM	x >= 7 years	3	none	4	real estate	none	own	2	unskilled-resident	2	none	no	1	M
+0 <= x < 200 DM	15	existing credits paid	radio/tv	802	x < 100 DM	x >= 7 years	4	none	3	car or other	none	own	1	skilled employee / official	2	none	yes	0	M
+no checking account	36	critical accnt. / other credits	business	6304	unknown	x >= 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	radio/tv	1533	x < 100 DM	x < 1 year	4	none	3	car or other	stores	own	1	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	14	existing credits paid	new car	8978	x < 100 DM	x >= 7 years	1	none	4	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	no	0	M
+no checking account	24	existing credits paid	radio/tv	999	unknown	x >= 7 years	4	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	18	existing credits paid	new car	2662	unknown	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	no	1	M
+no checking account	12	critical accnt. / other credits	forniture	1402	500 <= x < 1000 DM	4 <= x < 7 years	3	none	4	car or other	none	rent	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	48	all credits paid	new car	12169	unknown	unemployed	4	co-applicant	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	48	existing credits paid	radio/tv	3060	x < 100 DM	4 <= x < 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	none	yes	0	M
+x < 0 DM	30	existing credits paid	repairs	11998	x < 100 DM	x < 1 year	1	none	1	unknown	none	own	1	unskilled-resident	1	yes	yes	0	M
+no checking account	9	existing credits paid	radio/tv	2697	x < 100 DM	1 <= x < 4 years	1	none	2	real estate	none	own	1	skilled employee / official	2	none	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	2404	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	F
+x < 0 DM	12	existing credits paid	forniture	1262	unknown	x >= 7 years	2	none	4	soc. savings / life insurance	none	own	1	unskilled-resident	1	yes	yes	1	M
+no checking account	6	existing credits paid	forniture	4611	x < 100 DM	x < 1 year	1	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+no checking account	24	existing credits paid	radio/tv	1901	100 <= x < 500 DM	1 <= x < 4 years	4	none	4	car or other	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	15	critical accnt. / other credits	used car	3368	x >= 1000 DM	x >= 7 years	3	none	4	unknown	none	rent	2	skilled employee / official	1	yes	yes	1	M
+no checking account	12	existing credits paid	forniture	1574	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x >= 200DM	18	all credits paid	radio/tv	1445	unknown	4 <= x < 7 years	4	none	4	car or other	bank	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	15	critical accnt. / other credits	forniture	1520	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	24	critical accnt. / other credits	new car	3878	100 <= x < 500 DM	x < 1 year	4	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	47	existing credits paid	new car	10722	x < 100 DM	x < 1 year	1	none	1	real estate	none	own	1	unskilled-resident	1	yes	yes	1	F
+x < 0 DM	48	existing credits paid	used car	4788	x < 100 DM	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	2	none	yes	1	M
+0 <= x < 200 DM	48	delay	others	7582	100 <= x < 500 DM	unemployed	2	none	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1092	x < 100 DM	1 <= x < 4 years	4	guarantor	4	real estate	none	own	2	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	24	delay	radio/tv	1024	x < 100 DM	x < 1 year	4	none	4	real estate	stores	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	12	existing credits paid	business	1076	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	skilled employee / official	1	yes	no	1	M
+0 <= x < 200 DM	36	existing credits paid	used car	9398	x < 100 DM	x < 1 year	1	none	4	car or other	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+x < 0 DM	24	critical accnt. / other credits	used car	6419	x < 100 DM	x >= 7 years	2	none	4	unknown	none	for free	2	management / self-employed / highly qualified employee / officer	2	yes	yes	1	F
+x >= 200DM	42	critical accnt. / other credits	used car	4796	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+no checking account	48	critical accnt. / other credits	business	7629	unknown	x >= 7 years	4	none	2	car or other	bank	own	2	management / self-employed / highly qualified employee / officer	2	none	yes	1	M
+0 <= x < 200 DM	48	existing credits paid	forniture	9960	x < 100 DM	x < 1 year	1	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	0	F
+no checking account	12	existing credits paid	used car	4675	unknown	x < 1 year	1	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	1	F
+no checking account	10	existing credits paid	new car	1287	unknown	x >= 7 years	4	co-applicant	2	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	no	1	M
+no checking account	18	existing credits paid	forniture	2515	x < 100 DM	1 <= x < 4 years	3	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	21	critical accnt. / other credits	forniture	2745	x >= 1000 DM	4 <= x < 7 years	3	none	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	6	existing credits paid	new car	672	x < 100 DM	unemployed	1	none	4	real estate	none	own	1	unemployed / unskilled-non-resident	1	yes	yes	1	F
+0 <= x < 200 DM	36	no credits	radio/tv	3804	x < 100 DM	1 <= x < 4 years	4	none	1	car or other	none	own	1	skilled employee / official	1	yes	yes	0	F
+x >= 200DM	24	critical accnt. / other credits	new car	1344	unknown	4 <= x < 7 years	4	none	2	real estate	bank	own	2	unskilled-resident	2	none	yes	0	M
+x < 0 DM	10	critical accnt. / other credits	new car	1038	x < 100 DM	4 <= x < 7 years	4	co-applicant	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	48	critical accnt. / other credits	new car	10127	500 <= x < 1000 DM	1 <= x < 4 years	2	none	2	unknown	bank	for free	1	skilled employee / official	1	none	yes	0	M
+no checking account	6	existing credits paid	forniture	1543	x >= 1000 DM	1 <= x < 4 years	4	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	30	existing credits paid	used car	4811	unknown	4 <= x < 7 years	2	none	4	soc. savings / life insurance	stores	rent	1	unskilled-resident	1	none	yes	1	F
+x < 0 DM	12	existing credits paid	radio/tv	727	100 <= x < 500 DM	x < 1 year	4	none	3	unknown	none	own	1	unskilled-resident	1	yes	yes	0	M
+0 <= x < 200 DM	8	existing credits paid	forniture	1237	x < 100 DM	1 <= x < 4 years	3	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	9	existing credits paid	new car	276	x < 100 DM	1 <= x < 4 years	4	none	4	real estate	none	rent	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	48	existing credits paid	others	5381	unknown	unemployed	3	none	4	unknown	bank	for free	1	unemployed / unskilled-non-resident	1	yes	yes	1	M
+no checking account	24	existing credits paid	forniture	5511	100 <= x < 500 DM	1 <= x < 4 years	4	none	1	car or other	stores	own	1	skilled employee / official	1	none	yes	1	M
+x >= 200DM	24	existing credits paid	forniture	3749	x < 100 DM	x < 1 year	2	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	new car	685	x < 100 DM	4 <= x < 7 years	2	none	3	car or other	bank	own	1	unskilled-resident	1	none	yes	0	M
+x >= 200DM	4	existing credits paid	new car	1494	unknown	x < 1 year	1	none	2	real estate	none	own	1	unskilled-resident	2	none	no	1	M
+x < 0 DM	36	all credits paid	forniture	2746	x < 100 DM	x >= 7 years	4	none	4	car or other	bank	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	12	existing credits paid	forniture	708	x < 100 DM	1 <= x < 4 years	2	guarantor	3	soc. savings / life insurance	none	own	1	unskilled-resident	2	none	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	forniture	4351	unknown	1 <= x < 4 years	1	none	4	soc. savings / life insurance	none	own	1	unskilled-resident	1	yes	yes	1	F
+no checking account	12	critical accnt. / other credits	education	701	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	15	delay	forniture	3643	x < 100 DM	x >= 7 years	1	none	4	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	30	critical accnt. / other credits	new car	4249	x < 100 DM	unemployed	4	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	none	yes	0	M
+x < 0 DM	24	existing credits paid	radio/tv	1938	x < 100 DM	x < 1 year	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	24	existing credits paid	used car	2910	x < 100 DM	4 <= x < 7 years	2	none	1	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	18	existing credits paid	forniture	2659	x >= 1000 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	new car	1028	x < 100 DM	1 <= x < 4 years	4	none	3	real estate	none	own	2	skilled employee / official	1	none	yes	1	F
+x < 0 DM	8	critical accnt. / other credits	new car	3398	x < 100 DM	4 <= x < 7 years	1	none	4	real estate	none	own	2	unskilled-resident	1	none	no	1	M
+no checking account	12	critical accnt. / other credits	forniture	5801	unknown	x >= 7 years	2	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	yes	yes	1	M
+no checking account	24	existing credits paid	new car	1525	x >= 1000 DM	4 <= x < 7 years	4	none	3	car or other	none	own	1	skilled employee / official	2	yes	yes	1	F
+x >= 200DM	36	existing credits paid	radio/tv	4473	x < 100 DM	x >= 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	6	existing credits paid	radio/tv	1068	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	24	critical accnt. / other credits	used car	6615	x < 100 DM	unemployed	2	none	4	unknown	none	for free	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	18	critical accnt. / other credits	education	1864	100 <= x < 500 DM	1 <= x < 4 years	4	none	2	real estate	none	own	2	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	60	existing credits paid	new car	7408	100 <= x < 500 DM	x < 1 year	4	none	2	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	0	F
+no checking account	48	critical accnt. / other credits	used car	11590	100 <= x < 500 DM	1 <= x < 4 years	2	none	4	car or other	bank	rent	2	unskilled-resident	1	none	yes	0	F
+x < 0 DM	24	no credits	forniture	4110	x < 100 DM	x >= 7 years	3	none	4	unknown	bank	rent	2	skilled employee / official	2	none	yes	0	M
+x < 0 DM	6	critical accnt. / other credits	forniture	3384	x < 100 DM	1 <= x < 4 years	1	none	4	real estate	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+0 <= x < 200 DM	13	existing credits paid	radio/tv	2101	x < 100 DM	x < 1 year	2	guarantor	4	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	1	F
+x < 0 DM	15	existing credits paid	appliances	1275	unknown	1 <= x < 4 years	4	none	2	car or other	none	rent	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	24	existing credits paid	forniture	4169	x < 100 DM	1 <= x < 4 years	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	10	existing credits paid	forniture	1521	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	24	critical accnt. / other credits	education	5743	x < 100 DM	x < 1 year	2	none	4	unknown	none	for free	2	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	21	existing credits paid	forniture	3599	x < 100 DM	4 <= x < 7 years	1	none	4	car or other	none	rent	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	18	existing credits paid	radio/tv	3213	500 <= x < 1000 DM	x < 1 year	1	none	3	real estate	none	rent	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	business	4439	x < 100 DM	x >= 7 years	1	co-applicant	1	real estate	bank	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x >= 200DM	10	existing credits paid	new car	3949	x < 100 DM	x < 1 year	1	guarantor	1	soc. savings / life insurance	none	own	1	unskilled-resident	2	none	yes	1	M
+no checking account	15	critical accnt. / other credits	radio/tv	1459	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	13	critical accnt. / other credits	radio/tv	882	x < 100 DM	x < 1 year	4	guarantor	4	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	radio/tv	3758	500 <= x < 1000 DM	unemployed	1	none	4	unknown	none	rent	1	unemployed / unskilled-non-resident	1	none	yes	1	F
+no checking account	6	delay	business	1743	100 <= x < 500 DM	1 <= x < 4 years	1	none	2	real estate	none	own	2	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	9	critical accnt. / other credits	education	1136	x >= 1000 DM	x >= 7 years	4	none	3	unknown	none	for free	2	skilled employee / official	2	none	yes	0	M
+no checking account	9	existing credits paid	appliances	1236	x < 100 DM	x < 1 year	1	none	4	real estate	none	rent	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	9	existing credits paid	forniture	959	x < 100 DM	1 <= x < 4 years	1	none	2	car or other	none	own	1	skilled employee / official	1	none	no	0	F
+no checking account	18	critical accnt. / other credits	used car	3229	unknown	unemployed	2	none	4	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	12	no credits	radio/tv	6199	x < 100 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	rent	2	skilled employee / official	1	yes	yes	0	M
+no checking account	10	existing credits paid	education	727	500 <= x < 1000 DM	x >= 7 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	new car	1246	x < 100 DM	x < 1 year	4	none	2	real estate	stores	own	1	unskilled-resident	1	none	yes	0	M
+no checking account	12	critical accnt. / other credits	radio/tv	2331	unknown	x >= 7 years	1	co-applicant	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	36	delay	radio/tv	4463	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	12	existing credits paid	radio/tv	776	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	30	existing credits paid	forniture	2406	x < 100 DM	4 <= x < 7 years	4	none	4	real estate	none	rent	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	18	existing credits paid	education	1239	unknown	1 <= x < 4 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+x >= 200DM	12	existing credits paid	radio/tv	3399	unknown	x >= 7 years	2	none	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+x >= 200DM	12	delay	new car	2247	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	stores	own	2	skilled employee / official	1	yes	yes	1	F
+no checking account	6	existing credits paid	forniture	1766	x < 100 DM	1 <= x < 4 years	1	none	2	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	18	existing credits paid	forniture	2473	x < 100 DM	unemployed	4	none	1	car or other	none	own	1	unemployed / unskilled-non-resident	1	none	yes	0	M
+no checking account	12	existing credits paid	business	1542	x < 100 DM	4 <= x < 7 years	2	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	18	critical accnt. / other credits	used car	3850	x < 100 DM	4 <= x < 7 years	3	none	1	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	18	existing credits paid	forniture	3650	x < 100 DM	x < 1 year	1	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	36	existing credits paid	forniture	3446	x < 100 DM	x >= 7 years	4	none	2	car or other	none	own	1	skilled employee / official	2	none	yes	0	M
+0 <= x < 200 DM	18	existing credits paid	forniture	3001	x < 100 DM	4 <= x < 7 years	2	none	4	real estate	none	rent	1	skilled employee / official	1	none	yes	1	F
+no checking account	36	existing credits paid	new car	3079	unknown	1 <= x < 4 years	4	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	6070	x < 100 DM	x >= 7 years	3	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	10	critical accnt. / other credits	forniture	2146	x < 100 DM	x < 1 year	1	none	3	real estate	none	rent	2	skilled employee / official	1	none	yes	1	F
+no checking account	60	critical accnt. / other credits	new car	13756	unknown	x >= 7 years	2	none	4	unknown	bank	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	60	all credits paid	others	14782	100 <= x < 500 DM	x >= 7 years	3	none	4	unknown	bank	for free	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+x < 0 DM	48	all credits paid	business	7685	x < 100 DM	4 <= x < 7 years	2	guarantor	4	car or other	none	rent	1	skilled employee / official	1	none	yes	0	F
+no checking account	18	delay	radio/tv	2320	x < 100 DM	unemployed	2	none	3	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	7	delay	radio/tv	846	unknown	x >= 7 years	3	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	36	existing credits paid	new car	14318	x < 100 DM	x >= 7 years	4	none	2	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	6	critical accnt. / other credits	new car	362	100 <= x < 500 DM	1 <= x < 4 years	4	none	4	car or other	none	own	2	unskilled-resident	1	none	yes	1	F
+x < 0 DM	20	existing credits paid	forniture	2212	unknown	4 <= x < 7 years	4	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	used car	12976	x < 100 DM	unemployed	3	none	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+no checking account	22	existing credits paid	new car	1283	unknown	4 <= x < 7 years	4	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	F
+x >= 200DM	12	existing credits paid	new car	1330	x < 100 DM	x < 1 year	4	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	30	delay	business	4272	100 <= x < 500 DM	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	2238	x < 100 DM	1 <= x < 4 years	2	none	1	car or other	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	18	existing credits paid	radio/tv	1126	unknown	x < 1 year	4	none	2	real estate	none	rent	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	18	critical accnt. / other credits	forniture	7374	x < 100 DM	unemployed	4	none	4	soc. savings / life insurance	stores	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	15	critical accnt. / other credits	business	2326	500 <= x < 1000 DM	1 <= x < 4 years	2	none	4	car or other	bank	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	9	existing credits paid	business	1449	x < 100 DM	4 <= x < 7 years	3	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	18	existing credits paid	new car	1820	x < 100 DM	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	forniture	983	x >= 1000 DM	x < 1 year	1	none	4	real estate	none	rent	1	unskilled-resident	1	none	yes	1	F
+x < 0 DM	36	existing credits paid	new car	3249	x < 100 DM	4 <= x < 7 years	2	none	4	unknown	bank	for free	1	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+x < 0 DM	6	critical accnt. / other credits	radio/tv	1957	x < 100 DM	4 <= x < 7 years	1	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	9	critical accnt. / other credits	forniture	2406	x < 100 DM	unemployed	2	none	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+0 <= x < 200 DM	39	delay	education	11760	100 <= x < 500 DM	4 <= x < 7 years	2	none	3	unknown	none	rent	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	forniture	2578	x < 100 DM	unemployed	3	none	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	F
+x < 0 DM	36	critical accnt. / other credits	forniture	2348	x < 100 DM	1 <= x < 4 years	3	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	new car	1223	x < 100 DM	x >= 7 years	1	none	1	real estate	none	rent	2	skilled employee / official	1	none	yes	0	M
+no checking account	24	critical accnt. / other credits	radio/tv	1516	x >= 1000 DM	1 <= x < 4 years	4	none	1	real estate	none	own	2	unskilled-resident	1	none	yes	1	F
+no checking account	18	existing credits paid	radio/tv	1473	x < 100 DM	x < 1 year	3	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	18	critical accnt. / other credits	business	1887	unknown	1 <= x < 4 years	4	none	4	real estate	bank	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	delay	business	8648	x < 100 DM	x < 1 year	2	none	2	car or other	bank	own	2	skilled employee / official	1	yes	yes	0	M
+no checking account	14	delay	new car	802	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	2	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	18	delay	new car	2899	unknown	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	2	none	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	radio/tv	2039	x < 100 DM	x < 1 year	1	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	0	M
+no checking account	24	critical accnt. / other credits	used car	2197	unknown	4 <= x < 7 years	4	none	4	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	15	existing credits paid	radio/tv	1053	x < 100 DM	x < 1 year	4	none	2	real estate	none	own	1	skilled employee / official	1	none	no	1	M
+no checking account	24	existing credits paid	radio/tv	3235	500 <= x < 1000 DM	x >= 7 years	3	none	2	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x >= 200DM	12	critical accnt. / other credits	new car	939	500 <= x < 1000 DM	4 <= x < 7 years	4	none	2	real estate	none	own	3	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	24	existing credits paid	radio/tv	1967	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+no checking account	33	critical accnt. / other credits	used car	7253	x < 100 DM	4 <= x < 7 years	3	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	12	critical accnt. / other credits	business	2292	x < 100 DM	unemployed	4	none	2	car or other	stores	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	10	existing credits paid	new car	1597	500 <= x < 1000 DM	1 <= x < 4 years	3	none	2	unknown	none	rent	1	unskilled-resident	2	none	no	1	M
+x < 0 DM	24	existing credits paid	new car	1381	unknown	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+no checking account	36	critical accnt. / other credits	used car	5842	x < 100 DM	x >= 7 years	2	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	12	existing credits paid	new car	2579	x < 100 DM	x < 1 year	4	none	1	real estate	none	own	1	unskilled-resident	2	none	yes	0	M
+x < 0 DM	18	delay	education	8471	unknown	1 <= x < 4 years	1	none	2	car or other	none	rent	2	skilled employee / official	1	yes	yes	1	F
+no checking account	21	existing credits paid	new car	2782	500 <= x < 1000 DM	4 <= x < 7 years	1	none	2	car or other	bank	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	F
+0 <= x < 200 DM	18	existing credits paid	new car	1042	unknown	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+no checking account	15	existing credits paid	new car	3186	x >= 1000 DM	4 <= x < 7 years	2	none	3	car or other	none	rent	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	used car	2028	unknown	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	critical accnt. / other credits	new car	958	x < 100 DM	4 <= x < 7 years	2	none	3	real estate	none	own	2	unskilled-resident	2	none	yes	1	M
+no checking account	21	delay	forniture	1591	100 <= x < 500 DM	4 <= x < 7 years	4	none	3	real estate	none	own	2	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	forniture	2762	unknown	x >= 7 years	1	none	2	soc. savings / life insurance	bank	own	1	skilled employee / official	1	yes	yes	0	F
+0 <= x < 200 DM	18	existing credits paid	used car	2779	x < 100 DM	1 <= x < 4 years	1	none	3	car or other	none	rent	1	skilled employee / official	1	yes	yes	1	M
+no checking account	28	critical accnt. / other credits	radio/tv	2743	x < 100 DM	x >= 7 years	4	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	1149	x >= 1000 DM	1 <= x < 4 years	4	none	3	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	9	existing credits paid	forniture	1313	x < 100 DM	x >= 7 years	1	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	18	critical accnt. / other credits	repairs	1190	x < 100 DM	unemployed	2	none	4	unknown	none	for free	3	unemployed / unskilled-non-resident	2	none	yes	0	F
+no checking account	5	existing credits paid	business	3448	x < 100 DM	4 <= x < 7 years	1	none	4	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	others	11328	x < 100 DM	1 <= x < 4 years	2	co-applicant	3	car or other	bank	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+x < 0 DM	6	critical accnt. / other credits	forniture	1872	x < 100 DM	unemployed	4	none	4	unknown	none	for free	3	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	24	critical accnt. / other credits	repairs	2058	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	9	existing credits paid	forniture	2136	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1484	unknown	1 <= x < 4 years	2	none	1	real estate	none	own	1	skilled employee / official	1	yes	yes	0	M
+no checking account	6	existing credits paid	repairs	660	500 <= x < 1000 DM	4 <= x < 7 years	2	none	4	real estate	none	rent	1	unskilled-resident	1	none	yes	1	M
+no checking account	24	critical accnt. / other credits	new car	1287	x >= 1000 DM	x >= 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	42	critical accnt. / other credits	repairs	3394	x < 100 DM	unemployed	4	co-applicant	4	car or other	none	own	2	unemployed / unskilled-non-resident	1	none	yes	1	M
+x >= 200DM	12	all credits paid	business	609	x < 100 DM	x < 1 year	4	none	1	real estate	none	own	1	unemployed / unskilled-non-resident	1	none	yes	0	F
+no checking account	12	existing credits paid	new car	1884	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	forniture	1620	x < 100 DM	1 <= x < 4 years	2	co-applicant	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	20	delay	others	2629	x < 100 DM	1 <= x < 4 years	2	none	3	car or other	bank	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	12	existing credits paid	education	719	x < 100 DM	x >= 7 years	4	none	4	car or other	bank	own	1	unskilled-resident	2	none	yes	0	M
+0 <= x < 200 DM	48	critical accnt. / other credits	forniture	5096	x < 100 DM	1 <= x < 4 years	2	none	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+no checking account	9	critical accnt. / other credits	education	1244	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	none	rent	2	unskilled-resident	1	none	yes	1	F
+x < 0 DM	36	existing credits paid	new car	1842	x < 100 DM	x < 1 year	4	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	0	F
+0 <= x < 200 DM	7	existing credits paid	radio/tv	2576	x < 100 DM	1 <= x < 4 years	2	guarantor	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x >= 200DM	12	existing credits paid	forniture	1424	unknown	x >= 7 years	3	none	4	real estate	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+0 <= x < 200 DM	15	delay	repairs	1512	x >= 1000 DM	1 <= x < 4 years	3	none	3	soc. savings / life insurance	stores	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	36	critical accnt. / other credits	used car	11054	unknown	1 <= x < 4 years	4	none	2	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	6	existing credits paid	radio/tv	518	x < 100 DM	1 <= x < 4 years	3	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	12	no credits	forniture	2759	x < 100 DM	x >= 7 years	2	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	used car	2670	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	24	existing credits paid	new car	4817	x < 100 DM	4 <= x < 7 years	2	co-applicant	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	0	M
+no checking account	24	existing credits paid	used car	2679	x < 100 DM	x < 1 year	4	none	1	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+x < 0 DM	11	critical accnt. / other credits	new car	3905	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	rent	2	skilled employee / official	2	none	yes	1	M
+x < 0 DM	12	existing credits paid	used car	3386	x < 100 DM	x >= 7 years	3	none	4	unknown	none	for free	1	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	6	existing credits paid	appliances	343	x < 100 DM	x < 1 year	4	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	18	existing credits paid	radio/tv	4594	x < 100 DM	x < 1 year	3	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	36	existing credits paid	forniture	3620	x < 100 DM	1 <= x < 4 years	1	guarantor	2	soc. savings / life insurance	none	own	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	15	existing credits paid	new car	1721	x < 100 DM	x < 1 year	2	none	3	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	forniture	3017	x < 100 DM	x < 1 year	3	none	1	real estate	none	rent	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	retraining	754	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	18	existing credits paid	business	1950	x < 100 DM	4 <= x < 7 years	4	none	1	car or other	stores	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	24	existing credits paid	used car	2924	x < 100 DM	1 <= x < 4 years	3	guarantor	4	unknown	bank	own	1	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	24	delay	radio/tv	1659	x < 100 DM	x < 1 year	4	none	2	car or other	none	rent	1	unskilled-resident	1	yes	yes	0	F
+no checking account	48	delay	radio/tv	7238	unknown	x >= 7 years	3	none	3	car or other	bank	own	2	skilled employee / official	2	none	yes	1	M
+no checking account	33	delay	business	2764	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	F
+no checking account	24	delay	used car	4679	x < 100 DM	4 <= x < 7 years	3	none	3	car or other	none	own	2	unskilled-resident	1	yes	yes	1	M
+0 <= x < 200 DM	24	existing credits paid	radio/tv	3092	100 <= x < 500 DM	x < 1 year	3	none	2	car or other	none	rent	1	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	6	existing credits paid	education	448	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	9	existing credits paid	new car	654	x < 100 DM	1 <= x < 4 years	4	none	3	car or other	none	own	1	unskilled-resident	1	none	yes	0	M
+no checking account	6	existing credits paid	retraining	1238	unknown	unemployed	4	none	4	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+0 <= x < 200 DM	18	critical accnt. / other credits	radio/tv	1245	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	18	no credits	forniture	3114	x < 100 DM	x < 1 year	1	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	0	F
+no checking account	39	existing credits paid	used car	2569	500 <= x < 1000 DM	1 <= x < 4 years	4	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x >= 200DM	24	existing credits paid	radio/tv	5152	x < 100 DM	4 <= x < 7 years	4	none	2	car or other	bank	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	business	1037	100 <= x < 500 DM	4 <= x < 7 years	3	none	4	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+x < 0 DM	15	critical accnt. / other credits	forniture	1478	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+0 <= x < 200 DM	12	critical accnt. / other credits	radio/tv	3573	x < 100 DM	1 <= x < 4 years	1	none	1	real estate	none	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	24	existing credits paid	new car	1201	x < 100 DM	x < 1 year	4	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	30	existing credits paid	forniture	3622	x >= 1000 DM	x >= 7 years	4	none	4	soc. savings / life insurance	none	rent	2	skilled employee / official	1	yes	yes	1	F
+no checking account	15	delay	forniture	960	x >= 1000 DM	4 <= x < 7 years	3	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	12	critical accnt. / other credits	new car	1163	500 <= x < 1000 DM	1 <= x < 4 years	4	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	6	delay	new car	1209	x < 100 DM	unemployed	4	none	4	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	12	existing credits paid	radio/tv	3077	x < 100 DM	1 <= x < 4 years	2	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	24	existing credits paid	new car	3757	x < 100 DM	x >= 7 years	4	co-applicant	4	unknown	none	for free	1	skilled employee / official	1	yes	yes	1	F
+no checking account	10	existing credits paid	new car	1418	100 <= x < 500 DM	1 <= x < 4 years	3	none	2	real estate	none	rent	1	unskilled-resident	1	none	no	1	M
+no checking account	6	existing credits paid	new car	3518	x < 100 DM	1 <= x < 4 years	2	guarantor	3	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	M
+no checking account	12	critical accnt. / other credits	radio/tv	1934	x < 100 DM	x >= 7 years	2	none	2	unknown	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	27	no credits	business	8318	x < 100 DM	x >= 7 years	2	none	4	unknown	none	for free	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+no checking account	6	critical accnt. / other credits	radio/tv	1237	100 <= x < 500 DM	1 <= x < 4 years	1	none	1	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	6	existing credits paid	radio/tv	368	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	12	critical accnt. / other credits	new car	2122	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	rent	2	unskilled-resident	2	none	no	1	M
+x < 0 DM	24	existing credits paid	forniture	2996	unknown	1 <= x < 4 years	2	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	36	existing credits paid	forniture	9034	100 <= x < 500 DM	x < 1 year	4	co-applicant	1	unknown	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	24	critical accnt. / other credits	forniture	1585	x < 100 DM	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	radio/tv	1301	x < 100 DM	x >= 7 years	4	guarantor	2	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+x >= 200DM	6	critical accnt. / other credits	new car	1323	100 <= x < 500 DM	x >= 7 years	2	none	4	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	24	existing credits paid	new car	3123	x < 100 DM	x < 1 year	4	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	36	existing credits paid	used car	5493	x < 100 DM	x >= 7 years	2	none	4	unknown	none	for free	1	skilled employee / official	2	none	yes	1	M
+x >= 200DM	9	existing credits paid	radio/tv	1126	100 <= x < 500 DM	x >= 7 years	2	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	24	critical accnt. / other credits	radio/tv	1216	100 <= x < 500 DM	x < 1 year	4	none	4	unknown	bank	own	2	skilled employee / official	2	none	yes	0	M
+x < 0 DM	24	existing credits paid	new car	1207	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	0	F
+no checking account	10	existing credits paid	new car	1309	unknown	1 <= x < 4 years	4	guarantor	4	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	0	M
+x >= 200DM	15	critical accnt. / other credits	used car	2360	500 <= x < 1000 DM	1 <= x < 4 years	2	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	15	all credits paid	new car	6850	100 <= x < 500 DM	unemployed	1	none	2	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	2	yes	yes	0	M
+no checking account	24	existing credits paid	radio/tv	1413	x < 100 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	39	existing credits paid	used car	8588	100 <= x < 500 DM	x >= 7 years	4	none	2	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	new car	759	x < 100 DM	4 <= x < 7 years	4	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	36	existing credits paid	used car	4686	x < 100 DM	1 <= x < 4 years	2	none	2	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x >= 200DM	15	existing credits paid	business	2687	x < 100 DM	4 <= x < 7 years	2	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	12	delay	radio/tv	585	x < 100 DM	1 <= x < 4 years	4	co-applicant	4	real estate	none	rent	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	new car	2255	unknown	x < 1 year	4	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	6	critical accnt. / other credits	new car	609	x < 100 DM	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	no	1	F
+x < 0 DM	6	critical accnt. / other credits	new car	1361	x < 100 DM	x < 1 year	2	none	4	real estate	none	own	1	unskilled-resident	2	none	no	1	M
+no checking account	36	critical accnt. / other credits	forniture	7127	x < 100 DM	x < 1 year	2	none	4	soc. savings / life insurance	none	rent	2	skilled employee / official	1	yes	yes	0	F
+x < 0 DM	6	existing credits paid	new car	1203	100 <= x < 500 DM	x >= 7 years	3	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	6	critical accnt. / other credits	radio/tv	700	unknown	x >= 7 years	4	none	4	unknown	none	for free	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	critical accnt. / other credits	repairs	5507	x < 100 DM	x >= 7 years	3	none	4	unknown	none	for free	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	18	existing credits paid	radio/tv	3190	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	48	no credits	forniture	7119	x < 100 DM	1 <= x < 4 years	3	none	4	unknown	none	for free	2	skilled employee / official	2	none	yes	0	M
+no checking account	24	existing credits paid	used car	3488	100 <= x < 500 DM	4 <= x < 7 years	3	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	18	existing credits paid	radio/tv	1113	x < 100 DM	1 <= x < 4 years	4	guarantor	4	real estate	none	own	1	unskilled-resident	2	none	yes	1	F
+0 <= x < 200 DM	26	existing credits paid	used car	7966	x < 100 DM	x < 1 year	2	none	3	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	15	critical accnt. / other credits	education	1532	100 <= x < 500 DM	1 <= x < 4 years	4	none	3	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	4	critical accnt. / other credits	radio/tv	1503	x < 100 DM	4 <= x < 7 years	2	none	1	real estate	none	own	2	unskilled-resident	2	none	yes	1	M
+x < 0 DM	36	existing credits paid	radio/tv	2302	x < 100 DM	1 <= x < 4 years	4	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	6	existing credits paid	new car	662	x < 100 DM	x < 1 year	3	none	4	real estate	none	own	1	unskilled-resident	2	yes	yes	1	M
+0 <= x < 200 DM	36	existing credits paid	education	2273	x < 100 DM	4 <= x < 7 years	3	none	1	car or other	none	own	2	skilled employee / official	2	none	yes	1	M
+0 <= x < 200 DM	15	existing credits paid	new car	2631	100 <= x < 500 DM	1 <= x < 4 years	2	none	4	car or other	none	rent	2	skilled employee / official	1	yes	yes	0	F
+no checking account	12	delay	used car	1503	x < 100 DM	1 <= x < 4 years	4	none	4	real estate	none	rent	1	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	radio/tv	1311	100 <= x < 500 DM	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	24	existing credits paid	radio/tv	3105	unknown	x < 1 year	4	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+x >= 200DM	21	critical accnt. / other credits	education	2319	x < 100 DM	x < 1 year	2	none	1	car or other	none	rent	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	6	existing credits paid	new car	1374	unknown	unemployed	4	none	3	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+0 <= x < 200 DM	18	critical accnt. / other credits	forniture	3612	x < 100 DM	x >= 7 years	3	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	48	existing credits paid	new car	7763	x < 100 DM	x >= 7 years	4	none	4	unknown	bank	for free	1	management / self-employed / highly qualified employee / officer	1	none	yes	0	M
+x >= 200DM	18	existing credits paid	forniture	3049	x < 100 DM	x < 1 year	1	none	1	soc. savings / life insurance	stores	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1534	x < 100 DM	x < 1 year	1	none	1	real estate	none	rent	1	skilled employee / official	1	none	yes	0	M
+no checking account	24	delay	new car	2032	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	30	existing credits paid	forniture	6350	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	M
+x >= 200DM	18	existing credits paid	forniture	2864	x < 100 DM	1 <= x < 4 years	2	none	1	real estate	none	own	1	unskilled-resident	2	none	yes	0	M
+no checking account	12	critical accnt. / other credits	new car	1255	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	2	unskilled-resident	1	none	yes	1	M
+x < 0 DM	24	delay	new car	1333	x < 100 DM	unemployed	4	none	2	real estate	none	for free	2	skilled employee / official	2	none	yes	0	M
+no checking account	24	critical accnt. / other credits	new car	2022	x < 100 DM	1 <= x < 4 years	4	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+no checking account	24	existing credits paid	radio/tv	1552	x < 100 DM	4 <= x < 7 years	3	none	1	car or other	bank	own	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	12	all credits paid	radio/tv	626	x < 100 DM	1 <= x < 4 years	4	none	4	real estate	bank	own	1	unskilled-resident	1	none	yes	0	F
+no checking account	48	critical accnt. / other credits	used car	8858	unknown	4 <= x < 7 years	2	none	1	unknown	none	for free	2	skilled employee / official	1	yes	yes	1	M
+no checking account	12	critical accnt. / other credits	repairs	996	unknown	4 <= x < 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	6	all credits paid	radio/tv	1750	500 <= x < 1000 DM	x >= 7 years	2	none	4	soc. savings / life insurance	bank	own	1	unskilled-resident	2	none	yes	1	M
+x < 0 DM	48	existing credits paid	radio/tv	6999	x < 100 DM	4 <= x < 7 years	1	guarantor	1	real estate	none	own	2	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	12	critical accnt. / other credits	new car	1995	100 <= x < 500 DM	x < 1 year	4	none	1	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	9	existing credits paid	education	1199	x < 100 DM	4 <= x < 7 years	4	none	4	soc. savings / life insurance	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1331	x < 100 DM	x < 1 year	2	none	1	car or other	stores	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	18	no credits	new car	2278	100 <= x < 500 DM	x < 1 year	3	none	3	car or other	none	own	2	skilled employee / official	1	none	yes	0	F
+no checking account	21	no credits	new car	5003	unknown	1 <= x < 4 years	1	none	4	soc. savings / life insurance	bank	own	2	skilled employee / official	1	yes	yes	0	F
+x < 0 DM	24	all credits paid	forniture	3552	x < 100 DM	4 <= x < 7 years	3	none	4	car or other	bank	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	18	critical accnt. / other credits	forniture	1928	x < 100 DM	x < 1 year	2	none	2	real estate	none	own	2	unskilled-resident	1	none	yes	0	M
+x < 0 DM	24	existing credits paid	used car	2964	unknown	x >= 7 years	4	none	4	unknown	bank	for free	1	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	24	all credits paid	radio/tv	1546	x < 100 DM	4 <= x < 7 years	4	guarantor	4	car or other	bank	rent	1	unskilled-resident	1	none	yes	0	M
+x >= 200DM	6	delay	radio/tv	683	x < 100 DM	x < 1 year	2	none	1	soc. savings / life insurance	bank	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	36	existing credits paid	new car	12389	unknown	1 <= x < 4 years	1	none	4	unknown	none	for free	1	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	24	delay	business	4712	unknown	1 <= x < 4 years	4	none	2	soc. savings / life insurance	bank	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	24	delay	radio/tv	1553	100 <= x < 500 DM	4 <= x < 7 years	3	none	2	soc. savings / life insurance	none	rent	2	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	12	existing credits paid	new car	1372	x < 100 DM	4 <= x < 7 years	2	none	3	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	24	critical accnt. / other credits	radio/tv	2578	x >= 1000 DM	x >= 7 years	2	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	48	existing credits paid	radio/tv	3979	unknown	4 <= x < 7 years	4	none	1	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	48	existing credits paid	radio/tv	6758	x < 100 DM	1 <= x < 4 years	3	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	0	F
+x < 0 DM	24	existing credits paid	forniture	3234	x < 100 DM	x < 1 year	4	none	4	real estate	none	rent	1	unskilled-resident	1	yes	yes	0	F
+no checking account	30	critical accnt. / other credits	radio/tv	5954	x < 100 DM	4 <= x < 7 years	3	co-applicant	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	used car	5433	unknown	unemployed	2	none	4	soc. savings / life insurance	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+x < 0 DM	15	existing credits paid	business	806	x < 100 DM	1 <= x < 4 years	4	none	4	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	9	existing credits paid	radio/tv	1082	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	15	critical accnt. / other credits	forniture	2788	x < 100 DM	4 <= x < 7 years	2	co-applicant	3	car or other	bank	own	2	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	12	existing credits paid	radio/tv	2930	x < 100 DM	4 <= x < 7 years	2	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	24	critical accnt. / other credits	education	1927	unknown	1 <= x < 4 years	3	none	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	36	critical accnt. / other credits	new car	2820	x < 100 DM	x < 1 year	4	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	24	existing credits paid	retraining	937	x < 100 DM	x < 1 year	4	none	3	car or other	none	own	2	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	18	critical accnt. / other credits	new car	1056	x < 100 DM	x >= 7 years	3	guarantor	3	real estate	bank	own	2	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	12	critical accnt. / other credits	new car	3124	x < 100 DM	x < 1 year	1	none	3	real estate	bank	own	2	unskilled-resident	2	none	yes	1	M
+no checking account	9	existing credits paid	forniture	1388	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	rent	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	36	existing credits paid	repairs	2384	x < 100 DM	x < 1 year	4	none	1	unknown	none	rent	1	unskilled-resident	1	none	yes	0	M
+no checking account	12	existing credits paid	new car	2133	unknown	x >= 7 years	4	none	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+x < 0 DM	18	existing credits paid	forniture	2039	x < 100 DM	1 <= x < 4 years	1	none	4	real estate	bank	rent	1	skilled employee / official	1	none	yes	0	F
+x < 0 DM	9	critical accnt. / other credits	new car	2799	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	rent	2	skilled employee / official	2	none	yes	1	M
+x < 0 DM	12	existing credits paid	forniture	1289	x < 100 DM	1 <= x < 4 years	4	guarantor	1	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	1	M
+x < 0 DM	18	existing credits paid	appliances	1217	x < 100 DM	1 <= x < 4 years	4	none	3	real estate	none	own	1	unskilled-resident	1	yes	yes	0	M
+x < 0 DM	12	critical accnt. / other credits	forniture	2246	x < 100 DM	x >= 7 years	3	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	0	M
+x < 0 DM	12	critical accnt. / other credits	radio/tv	385	x < 100 DM	4 <= x < 7 years	4	none	3	real estate	none	own	4	unskilled-resident	1	yes	yes	1	F
+0 <= x < 200 DM	24	delay	new car	1965	unknown	1 <= x < 4 years	4	none	4	car or other	none	rent	2	skilled employee / official	1	yes	yes	1	F
+no checking account	21	existing credits paid	business	1572	x >= 1000 DM	x >= 7 years	4	none	4	real estate	bank	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	24	existing credits paid	new car	2718	x < 100 DM	1 <= x < 4 years	3	none	4	soc. savings / life insurance	none	rent	1	unskilled-resident	1	yes	yes	0	F
+x < 0 DM	24	all credits paid	others	1358	unknown	x >= 7 years	4	none	3	car or other	stores	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+0 <= x < 200 DM	6	all credits paid	new car	931	100 <= x < 500 DM	x < 1 year	1	none	1	soc. savings / life insurance	stores	own	1	unskilled-resident	1	none	yes	0	F
+x < 0 DM	24	existing credits paid	new car	1442	x < 100 DM	4 <= x < 7 years	4	none	4	car or other	none	rent	2	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	24	no credits	business	4241	x < 100 DM	1 <= x < 4 years	1	none	4	real estate	none	own	3	unskilled-resident	1	yes	yes	0	M
+no checking account	18	critical accnt. / other credits	new car	2775	x < 100 DM	4 <= x < 7 years	2	none	2	soc. savings / life insurance	bank	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	24	delay	business	3863	x < 100 DM	1 <= x < 4 years	1	none	2	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	7	existing credits paid	radio/tv	2329	x < 100 DM	x < 1 year	1	guarantor	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	9	existing credits paid	forniture	918	x < 100 DM	1 <= x < 4 years	4	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	24	all credits paid	education	1837	x < 100 DM	4 <= x < 7 years	4	none	4	unknown	bank	for free	1	unskilled-resident	1	none	yes	0	F
+no checking account	36	existing credits paid	forniture	3349	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+x >= 200DM	10	existing credits paid	forniture	1275	x < 100 DM	x < 1 year	4	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	24	all credits paid	forniture	2828	500 <= x < 1000 DM	1 <= x < 4 years	4	none	4	real estate	stores	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	24	critical accnt. / other credits	business	4526	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	36	existing credits paid	radio/tv	2671	100 <= x < 500 DM	1 <= x < 4 years	4	co-applicant	4	unknown	none	for free	1	skilled employee / official	1	none	yes	0	F
+no checking account	18	existing credits paid	radio/tv	2051	x < 100 DM	x < 1 year	4	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	15	existing credits paid	used car	1300	unknown	x >= 7 years	4	none	4	unknown	bank	for free	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	12	existing credits paid	appliances	741	100 <= x < 500 DM	unemployed	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+x >= 200DM	10	existing credits paid	new car	1240	100 <= x < 500 DM	x >= 7 years	1	none	4	unknown	none	for free	1	unskilled-resident	2	none	yes	0	F
+x < 0 DM	21	existing credits paid	radio/tv	3357	x >= 1000 DM	x < 1 year	4	none	2	car or other	bank	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	24	all credits paid	used car	3632	x < 100 DM	1 <= x < 4 years	1	guarantor	4	car or other	bank	rent	1	skilled employee / official	1	none	no	1	F
+no checking account	18	delay	forniture	1808	x < 100 DM	4 <= x < 7 years	4	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	48	no credits	business	12204	unknown	1 <= x < 4 years	2	none	2	car or other	bank	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	60	delay	radio/tv	9157	unknown	1 <= x < 4 years	2	none	2	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+x < 0 DM	6	critical accnt. / other credits	new car	3676	x < 100 DM	1 <= x < 4 years	1	none	3	real estate	none	rent	3	skilled employee / official	2	none	yes	1	M
+0 <= x < 200 DM	30	existing credits paid	forniture	3441	100 <= x < 500 DM	1 <= x < 4 years	2	co-applicant	4	car or other	none	rent	1	skilled employee / official	1	none	yes	0	F
+no checking account	12	existing credits paid	new car	640	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	21	critical accnt. / other credits	business	3652	x < 100 DM	4 <= x < 7 years	2	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	new car	1530	x < 100 DM	1 <= x < 4 years	3	none	2	soc. savings / life insurance	bank	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	48	existing credits paid	business	3914	unknown	1 <= x < 4 years	4	none	2	real estate	bank	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	12	existing credits paid	forniture	1858	x < 100 DM	x < 1 year	4	none	1	car or other	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	18	existing credits paid	radio/tv	2600	x < 100 DM	1 <= x < 4 years	4	none	4	unknown	none	for free	2	skilled employee / official	1	none	yes	0	M
+no checking account	15	existing credits paid	radio/tv	1979	unknown	x >= 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x >= 200DM	6	existing credits paid	forniture	2116	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	9	all credits paid	new car	1437	100 <= x < 500 DM	4 <= x < 7 years	2	none	3	unknown	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	42	critical accnt. / other credits	forniture	4042	500 <= x < 1000 DM	1 <= x < 4 years	4	none	4	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	9	existing credits paid	education	3832	unknown	x >= 7 years	1	none	4	real estate	none	own	1	unskilled-resident	1	none	yes	1	M
+x < 0 DM	24	existing credits paid	radio/tv	3660	x < 100 DM	1 <= x < 4 years	2	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	18	all credits paid	forniture	1553	x < 100 DM	1 <= x < 4 years	4	none	3	car or other	bank	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	15	existing credits paid	radio/tv	1444	unknown	x < 1 year	4	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	9	existing credits paid	forniture	1980	x < 100 DM	x < 1 year	2	co-applicant	2	car or other	none	rent	2	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	24	existing credits paid	new car	1355	x < 100 DM	x < 1 year	3	none	4	car or other	none	own	1	unskilled-resident	1	yes	yes	0	F
+no checking account	12	existing credits paid	education	1393	x < 100 DM	x >= 7 years	4	none	4	soc. savings / life insurance	bank	own	3	skilled employee / official	2	yes	yes	1	M
+no checking account	24	existing credits paid	radio/tv	1376	500 <= x < 1000 DM	4 <= x < 7 years	4	none	1	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	60	delay	radio/tv	15653	x < 100 DM	4 <= x < 7 years	2	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	12	existing credits paid	radio/tv	1493	x < 100 DM	x < 1 year	4	none	3	car or other	none	own	1	skilled employee / official	2	none	yes	1	F
+x < 0 DM	42	delay	radio/tv	4370	x < 100 DM	4 <= x < 7 years	3	none	2	soc. savings / life insurance	bank	own	2	skilled employee / official	2	yes	yes	0	M
+x < 0 DM	18	existing credits paid	education	750	x < 100 DM	unemployed	4	none	1	real estate	none	own	1	unemployed / unskilled-non-resident	1	none	yes	0	F
+0 <= x < 200 DM	15	existing credits paid	repairs	1308	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	15	existing credits paid	education	4623	100 <= x < 500 DM	1 <= x < 4 years	3	none	2	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	24	critical accnt. / other credits	radio/tv	1851	x < 100 DM	4 <= x < 7 years	4	guarantor	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	18	critical accnt. / other credits	radio/tv	1880	x < 100 DM	4 <= x < 7 years	4	none	1	soc. savings / life insurance	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	36	delay	business	7980	unknown	x < 1 year	4	none	4	car or other	none	rent	2	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	30	no credits	forniture	4583	x < 100 DM	1 <= x < 4 years	2	guarantor	2	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	12	existing credits paid	new car	1386	500 <= x < 1000 DM	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+x >= 200DM	24	existing credits paid	new car	947	x < 100 DM	4 <= x < 7 years	4	none	3	unknown	bank	for free	1	skilled employee / official	2	none	yes	0	M
+x < 0 DM	12	existing credits paid	education	684	x < 100 DM	1 <= x < 4 years	4	none	4	car or other	none	rent	1	unskilled-resident	2	none	yes	0	M
+x < 0 DM	48	existing credits paid	education	7476	x < 100 DM	4 <= x < 7 years	4	none	1	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	forniture	1922	x < 100 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	0	M
+x < 0 DM	24	existing credits paid	new car	2303	x < 100 DM	x >= 7 years	4	co-applicant	1	real estate	none	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	36	delay	new car	8086	100 <= x < 500 DM	x >= 7 years	2	none	4	car or other	none	own	4	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	24	critical accnt. / other credits	used car	2346	x < 100 DM	4 <= x < 7 years	4	none	3	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	14	existing credits paid	new car	3973	x < 100 DM	unemployed	1	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	new car	888	x < 100 DM	x >= 7 years	4	none	4	car or other	bank	own	1	unskilled-resident	2	none	yes	0	M
+no checking account	48	existing credits paid	radio/tv	10222	unknown	4 <= x < 7 years	4	none	3	car or other	stores	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	30	no credits	business	4221	x < 100 DM	1 <= x < 4 years	2	none	1	car or other	none	own	2	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	18	critical accnt. / other credits	forniture	6361	x < 100 DM	x >= 7 years	2	none	1	unknown	none	own	1	skilled employee / official	1	yes	yes	1	M
+x >= 200DM	12	existing credits paid	radio/tv	1297	x < 100 DM	1 <= x < 4 years	3	none	4	real estate	none	rent	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	12	existing credits paid	new car	900	unknown	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	21	existing credits paid	forniture	2241	x < 100 DM	x >= 7 years	4	none	2	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	6	delay	forniture	1050	x < 100 DM	unemployed	4	none	1	soc. savings / life insurance	stores	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x >= 200DM	6	critical accnt. / other credits	education	1047	x < 100 DM	1 <= x < 4 years	2	none	4	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	1	F
+no checking account	24	critical accnt. / other credits	others	6314	x < 100 DM	unemployed	4	co-applicant	2	unknown	bank	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	30	all credits paid	forniture	3496	x >= 1000 DM	1 <= x < 4 years	4	none	2	car or other	stores	own	1	skilled employee / official	2	yes	yes	1	M
+no checking account	48	all credits paid	business	3609	x < 100 DM	1 <= x < 4 years	1	none	1	real estate	stores	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	12	critical accnt. / other credits	new car	4843	x < 100 DM	x >= 7 years	3	co-applicant	4	soc. savings / life insurance	none	rent	2	skilled employee / official	1	yes	yes	0	M
+x >= 200DM	30	critical accnt. / other credits	radio/tv	3017	x < 100 DM	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	24	critical accnt. / other credits	business	4139	100 <= x < 500 DM	1 <= x < 4 years	3	none	3	soc. savings / life insurance	none	own	2	unskilled-resident	1	yes	yes	1	M
+no checking account	36	existing credits paid	business	5742	100 <= x < 500 DM	4 <= x < 7 years	2	none	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	60	existing credits paid	new car	10366	x < 100 DM	x >= 7 years	2	none	4	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	6	critical accnt. / other credits	new car	2080	500 <= x < 1000 DM	1 <= x < 4 years	1	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	21	delay	business	2580	500 <= x < 1000 DM	x < 1 year	4	none	2	real estate	bank	own	1	unskilled-resident	2	none	yes	0	M
+no checking account	30	critical accnt. / other credits	radio/tv	4530	x < 100 DM	4 <= x < 7 years	4	none	4	car or other	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+no checking account	24	critical accnt. / other credits	forniture	5150	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	72	existing credits paid	radio/tv	5595	100 <= x < 500 DM	1 <= x < 4 years	2	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	24	existing credits paid	radio/tv	2384	x < 100 DM	x >= 7 years	4	none	4	real estate	bank	rent	1	unskilled-resident	1	none	yes	1	M
+no checking account	18	existing credits paid	radio/tv	1453	x < 100 DM	x < 1 year	3	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	6	existing credits paid	education	1538	x < 100 DM	x < 1 year	1	none	2	unknown	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	12	existing credits paid	radio/tv	2279	unknown	1 <= x < 4 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	yes	yes	1	M
+no checking account	15	delay	radio/tv	1478	x < 100 DM	1 <= x < 4 years	4	none	3	real estate	bank	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	critical accnt. / other credits	radio/tv	5103	x < 100 DM	x < 1 year	3	none	3	unknown	none	for free	3	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	36	delay	business	9857	100 <= x < 500 DM	4 <= x < 7 years	1	none	3	soc. savings / life insurance	none	own	2	unskilled-resident	2	yes	yes	1	M
+no checking account	60	existing credits paid	new car	6527	unknown	1 <= x < 4 years	4	none	4	unknown	none	for free	1	skilled employee / official	2	yes	yes	1	M
+x >= 200DM	10	critical accnt. / other credits	radio/tv	1347	unknown	4 <= x < 7 years	4	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	36	delay	new car	2862	100 <= x < 500 DM	x >= 7 years	4	none	3	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+no checking account	9	existing credits paid	radio/tv	2753	100 <= x < 500 DM	x >= 7 years	3	co-applicant	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	new car	3651	x >= 1000 DM	1 <= x < 4 years	1	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	15	critical accnt. / other credits	forniture	975	x < 100 DM	1 <= x < 4 years	2	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	15	existing credits paid	repairs	2631	100 <= x < 500 DM	1 <= x < 4 years	3	none	2	real estate	none	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	24	existing credits paid	radio/tv	2896	100 <= x < 500 DM	x < 1 year	2	none	1	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	6	critical accnt. / other credits	new car	4716	unknown	x < 1 year	1	none	3	real estate	none	own	2	unskilled-resident	2	none	yes	1	M
+no checking account	24	existing credits paid	radio/tv	2284	x < 100 DM	4 <= x < 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	6	existing credits paid	used car	1236	500 <= x < 1000 DM	1 <= x < 4 years	2	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1103	x < 100 DM	4 <= x < 7 years	4	guarantor	3	real estate	none	own	2	skilled employee / official	1	none	no	1	M
+no checking account	12	critical accnt. / other credits	new car	926	x < 100 DM	unemployed	1	none	2	soc. savings / life insurance	none	own	1	unemployed / unskilled-non-resident	1	none	yes	1	F
+no checking account	18	critical accnt. / other credits	radio/tv	1800	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+x >= 200DM	15	existing credits paid	education	1905	x < 100 DM	x >= 7 years	4	none	4	car or other	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	12	existing credits paid	forniture	1123	500 <= x < 1000 DM	1 <= x < 4 years	4	none	4	car or other	none	rent	1	unskilled-resident	1	none	yes	0	F
+x < 0 DM	48	critical accnt. / other credits	used car	6331	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	2	skilled employee / official	1	yes	yes	0	M
+x >= 200DM	24	existing credits paid	radio/tv	1377	100 <= x < 500 DM	x >= 7 years	4	none	2	unknown	none	for free	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	30	delay	business	2503	100 <= x < 500 DM	x >= 7 years	4	none	2	soc. savings / life insurance	stores	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	27	existing credits paid	business	2528	x < 100 DM	x < 1 year	4	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	2	yes	yes	1	F
+no checking account	15	existing credits paid	new car	5324	500 <= x < 1000 DM	x >= 7 years	1	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	48	existing credits paid	new car	6560	100 <= x < 500 DM	4 <= x < 7 years	3	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	12	no credits	forniture	2969	x < 100 DM	x < 1 year	4	none	3	soc. savings / life insurance	none	rent	2	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	9	existing credits paid	radio/tv	1206	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	9	existing credits paid	radio/tv	2118	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	unskilled-resident	2	none	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	629	500 <= x < 1000 DM	x >= 7 years	4	none	3	soc. savings / life insurance	bank	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	6	all credits paid	education	1198	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	0	F
+no checking account	21	existing credits paid	used car	2476	unknown	x >= 7 years	4	none	4	real estate	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	9	critical accnt. / other credits	radio/tv	1138	x < 100 DM	1 <= x < 4 years	4	none	4	real estate	none	own	2	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	60	existing credits paid	new car	14027	x < 100 DM	4 <= x < 7 years	4	none	2	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	30	critical accnt. / other credits	used car	7596	unknown	x >= 7 years	1	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	30	critical accnt. / other credits	radio/tv	3077	unknown	x >= 7 years	3	none	2	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+no checking account	18	existing credits paid	radio/tv	1505	x < 100 DM	1 <= x < 4 years	4	none	2	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x >= 200DM	24	critical accnt. / other credits	radio/tv	3148	unknown	1 <= x < 4 years	3	none	2	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	20	no credits	used car	6148	100 <= x < 500 DM	x >= 7 years	3	none	4	car or other	bank	own	2	skilled employee / official	1	yes	yes	1	M
+x >= 200DM	9	no credits	radio/tv	1337	x < 100 DM	x < 1 year	4	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+0 <= x < 200 DM	6	all credits paid	education	433	x >= 1000 DM	x < 1 year	4	none	2	soc. savings / life insurance	bank	rent	1	skilled employee / official	2	none	yes	0	F
+x < 0 DM	12	existing credits paid	new car	1228	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	1	unskilled-resident	1	none	yes	0	F
+0 <= x < 200 DM	9	existing credits paid	radio/tv	790	500 <= x < 1000 DM	1 <= x < 4 years	4	none	3	real estate	none	own	1	unskilled-resident	1	none	yes	1	F
+no checking account	27	existing credits paid	new car	2570	x < 100 DM	1 <= x < 4 years	3	none	3	real estate	none	rent	1	skilled employee / official	1	none	yes	0	F
+no checking account	6	critical accnt. / other credits	new car	250	x >= 1000 DM	1 <= x < 4 years	2	none	2	real estate	bank	own	2	unskilled-resident	1	none	yes	1	F
+no checking account	15	critical accnt. / other credits	radio/tv	1316	500 <= x < 1000 DM	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	M
+x < 0 DM	18	existing credits paid	radio/tv	1882	x < 100 DM	1 <= x < 4 years	4	none	4	car or other	bank	rent	2	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	48	all credits paid	business	6416	x < 100 DM	x >= 7 years	4	none	3	unknown	none	rent	1	skilled employee / official	1	none	yes	0	F
+x >= 200DM	24	critical accnt. / other credits	business	1275	x >= 1000 DM	1 <= x < 4 years	2	none	4	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	24	delay	radio/tv	6403	x < 100 DM	x < 1 year	1	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	24	existing credits paid	radio/tv	1987	x < 100 DM	1 <= x < 4 years	2	none	4	real estate	none	rent	1	unskilled-resident	2	none	yes	0	M
+0 <= x < 200 DM	8	existing credits paid	radio/tv	760	x < 100 DM	4 <= x < 7 years	4	guarantor	2	real estate	none	own	1	unskilled-resident	1	none	yes	1	F
+no checking account	24	existing credits paid	used car	2603	x >= 1000 DM	1 <= x < 4 years	2	none	4	car or other	none	rent	1	skilled employee / official	1	yes	yes	1	F
+no checking account	4	critical accnt. / other credits	new car	3380	x < 100 DM	4 <= x < 7 years	1	none	1	real estate	none	own	1	skilled employee / official	2	none	yes	1	F
+0 <= x < 200 DM	36	all credits paid	appliances	3990	unknown	x < 1 year	3	none	2	unknown	bank	own	1	unemployed / unskilled-non-resident	1	none	yes	1	F
+0 <= x < 200 DM	24	existing credits paid	used car	11560	x < 100 DM	1 <= x < 4 years	1	none	4	car or other	none	rent	2	management / self-employed / highly qualified employee / officer	1	none	yes	0	F
+x < 0 DM	18	existing credits paid	new car	4380	100 <= x < 500 DM	1 <= x < 4 years	3	none	4	car or other	none	own	1	unskilled-resident	2	yes	yes	1	M
+no checking account	6	critical accnt. / other credits	new car	6761	x < 100 DM	4 <= x < 7 years	1	none	3	unknown	none	own	2	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+0 <= x < 200 DM	30	no credits	business	4280	100 <= x < 500 DM	1 <= x < 4 years	4	none	4	car or other	none	rent	2	unskilled-resident	1	none	yes	0	F
+x < 0 DM	24	all credits paid	new car	2325	100 <= x < 500 DM	4 <= x < 7 years	2	none	3	car or other	bank	own	1	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	10	all credits paid	radio/tv	1048	x < 100 DM	1 <= x < 4 years	4	none	4	real estate	stores	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	21	existing credits paid	radio/tv	3160	unknown	x >= 7 years	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	24	all credits paid	forniture	2483	500 <= x < 1000 DM	1 <= x < 4 years	4	none	4	real estate	stores	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	39	critical accnt. / other credits	forniture	14179	unknown	4 <= x < 7 years	4	none	4	soc. savings / life insurance	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	13	critical accnt. / other credits	business	1797	x < 100 DM	x < 1 year	3	none	1	soc. savings / life insurance	bank	own	2	unskilled-resident	1	none	yes	1	M
+x < 0 DM	15	existing credits paid	new car	2511	x < 100 DM	unemployed	1	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	12	existing credits paid	new car	1274	x < 100 DM	x < 1 year	3	none	1	real estate	none	own	1	unskilled-resident	1	none	yes	0	F
+no checking account	21	existing credits paid	used car	5248	unknown	1 <= x < 4 years	1	none	3	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	15	existing credits paid	used car	3029	x < 100 DM	4 <= x < 7 years	2	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	6	existing credits paid	forniture	428	x < 100 DM	x >= 7 years	2	none	1	soc. savings / life insurance	bank	own	1	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	18	existing credits paid	new car	976	x < 100 DM	x < 1 year	1	none	2	car or other	none	own	1	unskilled-resident	1	none	yes	0	F
+0 <= x < 200 DM	12	existing credits paid	business	841	100 <= x < 500 DM	4 <= x < 7 years	2	none	4	real estate	none	rent	1	unskilled-resident	1	none	yes	1	F
+no checking account	30	critical accnt. / other credits	radio/tv	5771	x < 100 DM	4 <= x < 7 years	4	none	2	car or other	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	12	delay	repairs	1555	x >= 1000 DM	x >= 7 years	4	none	4	unknown	none	for free	2	skilled employee / official	2	none	yes	0	M
+x < 0 DM	24	existing credits paid	new car	1285	unknown	4 <= x < 7 years	4	none	4	unknown	none	rent	1	skilled employee / official	1	none	yes	0	F
+x >= 200DM	6	critical accnt. / other credits	new car	1299	x < 100 DM	1 <= x < 4 years	1	none	1	real estate	none	own	3	unemployed / unskilled-non-resident	2	none	no	1	M
+x >= 200DM	15	critical accnt. / other credits	radio/tv	1271	unknown	1 <= x < 4 years	3	none	4	unknown	none	for free	2	skilled employee / official	1	yes	yes	0	M
+no checking account	24	existing credits paid	new car	1393	x < 100 DM	1 <= x < 4 years	2	guarantor	2	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	12	critical accnt. / other credits	new car	691	x < 100 DM	x >= 7 years	4	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	15	critical accnt. / other credits	new car	5045	unknown	x >= 7 years	1	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	18	critical accnt. / other credits	forniture	2124	x < 100 DM	1 <= x < 4 years	4	none	4	real estate	none	rent	2	skilled employee / official	1	none	yes	0	F
+x < 0 DM	12	existing credits paid	radio/tv	2214	x < 100 DM	1 <= x < 4 years	4	none	3	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	1	M
+no checking account	21	critical accnt. / other credits	new car	12680	unknown	x >= 7 years	4	none	4	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	24	critical accnt. / other credits	new car	2463	100 <= x < 500 DM	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	radio/tv	1155	x < 100 DM	x >= 7 years	3	guarantor	3	real estate	bank	own	2	unskilled-resident	1	none	yes	1	M
+x < 0 DM	30	existing credits paid	forniture	3108	x < 100 DM	x < 1 year	2	none	4	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	0	M
+no checking account	10	existing credits paid	used car	2901	unknown	x < 1 year	1	none	4	real estate	none	rent	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	12	critical accnt. / other credits	forniture	3617	x < 100 DM	x >= 7 years	1	none	4	car or other	none	rent	3	skilled employee / official	1	yes	yes	1	M
+no checking account	12	critical accnt. / other credits	radio/tv	1655	x < 100 DM	x >= 7 years	2	none	4	real estate	none	own	2	unskilled-resident	1	yes	yes	1	M
+x < 0 DM	24	existing credits paid	used car	2812	unknown	x >= 7 years	2	none	4	real estate	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	36	critical accnt. / other credits	education	8065	x < 100 DM	1 <= x < 4 years	3	none	2	unknown	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+no checking account	21	critical accnt. / other credits	used car	3275	x < 100 DM	x >= 7 years	1	none	4	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	24	critical accnt. / other credits	radio/tv	2223	100 <= x < 500 DM	x >= 7 years	4	none	4	soc. savings / life insurance	bank	own	2	skilled employee / official	1	none	yes	1	M
+x >= 200DM	12	critical accnt. / other credits	new car	1480	500 <= x < 1000 DM	unemployed	2	none	4	unknown	bank	for free	3	unemployed / unskilled-non-resident	1	none	yes	1	M
+x < 0 DM	24	existing credits paid	new car	1371	unknown	1 <= x < 4 years	4	none	4	real estate	none	rent	1	skilled employee / official	1	none	yes	0	F
+no checking account	36	critical accnt. / other credits	new car	3535	x < 100 DM	4 <= x < 7 years	4	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	18	existing credits paid	radio/tv	3509	x < 100 DM	4 <= x < 7 years	4	guarantor	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	36	critical accnt. / other credits	used car	5711	x >= 1000 DM	x >= 7 years	4	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	repairs	3872	x < 100 DM	unemployed	2	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+0 <= x < 200 DM	39	critical accnt. / other credits	radio/tv	4933	x < 100 DM	4 <= x < 7 years	2	guarantor	2	real estate	none	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	24	critical accnt. / other credits	new car	1940	x >= 1000 DM	x >= 7 years	4	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	12	no credits	retraining	1410	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	own	1	unskilled-resident	1	yes	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	new car	836	100 <= x < 500 DM	x < 1 year	4	none	2	soc. savings / life insurance	bank	own	1	unskilled-resident	1	none	yes	0	F
+0 <= x < 200 DM	20	existing credits paid	used car	6468	unknown	unemployed	1	none	4	real estate	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	18	existing credits paid	business	1941	x >= 1000 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	1	unskilled-resident	1	yes	yes	1	M
+no checking account	22	existing credits paid	radio/tv	2675	500 <= x < 1000 DM	x >= 7 years	3	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	48	critical accnt. / other credits	used car	2751	unknown	x >= 7 years	4	none	3	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+0 <= x < 200 DM	48	delay	education	6224	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	40	critical accnt. / other credits	education	5998	x < 100 DM	1 <= x < 4 years	4	none	3	unknown	bank	own	1	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	21	existing credits paid	business	1188	x < 100 DM	x >= 7 years	2	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	2	none	yes	0	F
+no checking account	24	existing credits paid	used car	6313	unknown	x >= 7 years	3	none	4	car or other	none	own	1	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+no checking account	6	critical accnt. / other credits	forniture	1221	unknown	1 <= x < 4 years	1	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+x >= 200DM	24	existing credits paid	forniture	2892	x < 100 DM	x >= 7 years	3	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	forniture	3062	500 <= x < 1000 DM	x >= 7 years	4	none	3	unknown	none	rent	1	skilled employee / official	1	yes	yes	1	M
+no checking account	9	existing credits paid	forniture	2301	100 <= x < 500 DM	x < 1 year	2	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	18	existing credits paid	used car	7511	unknown	x >= 7 years	1	none	4	soc. savings / life insurance	none	for free	1	skilled employee / official	2	yes	yes	0	M
+no checking account	12	critical accnt. / other credits	forniture	1258	x < 100 DM	x < 1 year	2	none	4	soc. savings / life insurance	none	rent	2	unskilled-resident	1	none	yes	1	F
+no checking account	24	delay	new car	717	unknown	x >= 7 years	4	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	9	existing credits paid	new car	1549	unknown	x < 1 year	4	none	2	real estate	none	own	1	unemployed / unskilled-non-resident	1	none	yes	1	M
+no checking account	24	critical accnt. / other credits	education	1597	x < 100 DM	x >= 7 years	4	none	4	unknown	none	for free	2	skilled employee / official	2	none	yes	1	M
+0 <= x < 200 DM	18	critical accnt. / other credits	radio/tv	1795	x < 100 DM	x >= 7 years	3	guarantor	4	real estate	bank	rent	2	unskilled-resident	1	yes	yes	1	F
+x < 0 DM	20	critical accnt. / other credits	forniture	4272	x < 100 DM	x >= 7 years	1	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	12	critical accnt. / other credits	radio/tv	976	unknown	x >= 7 years	4	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	12	existing credits paid	new car	7472	unknown	unemployed	1	none	2	real estate	none	rent	1	unemployed / unskilled-non-resident	1	none	yes	1	F
+x < 0 DM	36	existing credits paid	new car	9271	x < 100 DM	4 <= x < 7 years	2	none	1	car or other	none	own	1	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	6	existing credits paid	radio/tv	590	x < 100 DM	x < 1 year	3	none	3	real estate	none	own	1	unskilled-resident	1	none	no	1	M
+no checking account	12	critical accnt. / other credits	radio/tv	930	unknown	x >= 7 years	4	none	4	real estate	none	own	4	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	42	all credits paid	used car	9283	x < 100 DM	unemployed	1	none	2	unknown	bank	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	15	no credits	new car	1778	x < 100 DM	x < 1 year	2	none	1	real estate	none	rent	2	unemployed / unskilled-non-resident	1	none	yes	0	F
+0 <= x < 200 DM	8	existing credits paid	business	907	x < 100 DM	x < 1 year	3	none	2	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	6	existing credits paid	radio/tv	484	x < 100 DM	4 <= x < 7 years	3	guarantor	3	real estate	bank	own	1	unskilled-resident	1	none	yes	1	M
+x < 0 DM	36	critical accnt. / other credits	used car	9629	x < 100 DM	4 <= x < 7 years	4	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	48	existing credits paid	appliances	3051	x < 100 DM	1 <= x < 4 years	3	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	48	existing credits paid	new car	3931	x < 100 DM	4 <= x < 7 years	4	none	4	unknown	none	for free	1	skilled employee / official	2	none	yes	0	M
+0 <= x < 200 DM	36	delay	new car	7432	x < 100 DM	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	F
+no checking account	6	existing credits paid	appliances	1338	500 <= x < 1000 DM	1 <= x < 4 years	1	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	6	critical accnt. / other credits	radio/tv	1554	x < 100 DM	4 <= x < 7 years	1	none	2	car or other	none	rent	2	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	36	existing credits paid	others	15857	x < 100 DM	unemployed	2	co-applicant	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	none	yes	1	M
+x < 0 DM	18	existing credits paid	radio/tv	1345	x < 100 DM	1 <= x < 4 years	4	none	3	real estate	bank	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	12	existing credits paid	new car	1101	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+x >= 200DM	12	existing credits paid	radio/tv	3016	x < 100 DM	1 <= x < 4 years	3	none	1	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	36	existing credits paid	forniture	2712	x < 100 DM	x >= 7 years	2	none	2	soc. savings / life insurance	bank	own	1	skilled employee / official	2	none	yes	0	M
+x < 0 DM	8	critical accnt. / other credits	new car	731	x < 100 DM	x >= 7 years	4	none	4	real estate	none	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	forniture	3780	x < 100 DM	x < 1 year	3	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	21	critical accnt. / other credits	new car	1602	x < 100 DM	x >= 7 years	4	none	3	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	18	critical accnt. / other credits	new car	3966	x < 100 DM	x >= 7 years	1	none	4	real estate	bank	rent	3	skilled employee / official	1	yes	yes	0	F
+no checking account	18	no credits	business	4165	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	stores	own	2	skilled employee / official	2	none	yes	0	M
+x < 0 DM	36	existing credits paid	used car	8335	unknown	x >= 7 years	3	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	48	delay	business	6681	unknown	1 <= x < 4 years	4	none	4	unknown	none	for free	1	skilled employee / official	2	yes	yes	1	M
+no checking account	24	delay	business	2375	500 <= x < 1000 DM	1 <= x < 4 years	4	none	2	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	18	existing credits paid	new car	1216	x < 100 DM	x < 1 year	4	none	3	car or other	none	rent	1	skilled employee / official	1	yes	yes	0	F
+x < 0 DM	45	no credits	business	11816	x < 100 DM	x >= 7 years	2	none	4	car or other	none	rent	2	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	24	existing credits paid	radio/tv	5084	unknown	x >= 7 years	2	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+x >= 200DM	15	existing credits paid	radio/tv	2327	x < 100 DM	x < 1 year	2	none	3	real estate	none	own	1	unskilled-resident	1	none	yes	0	F
+x < 0 DM	12	no credits	new car	1082	x < 100 DM	1 <= x < 4 years	4	none	4	car or other	bank	own	2	skilled employee / official	1	none	yes	0	M
+no checking account	12	existing credits paid	radio/tv	886	unknown	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	4	existing credits paid	forniture	601	x < 100 DM	x < 1 year	1	none	3	real estate	none	rent	1	unskilled-resident	2	none	yes	1	F
+x < 0 DM	24	critical accnt. / other credits	used car	2957	x < 100 DM	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	24	critical accnt. / other credits	radio/tv	2611	x < 100 DM	x >= 7 years	4	co-applicant	3	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	36	existing credits paid	forniture	5179	x < 100 DM	4 <= x < 7 years	4	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	21	delay	used car	2993	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	stores	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	18	existing credits paid	repairs	1943	x < 100 DM	x < 1 year	4	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	0	F
+no checking account	24	all credits paid	business	1559	x < 100 DM	4 <= x < 7 years	4	none	4	car or other	bank	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	18	existing credits paid	forniture	3422	x < 100 DM	x >= 7 years	4	none	4	soc. savings / life insurance	bank	own	3	skilled employee / official	2	yes	yes	1	M
+0 <= x < 200 DM	21	existing credits paid	forniture	3976	unknown	4 <= x < 7 years	2	none	3	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	18	existing credits paid	new car	6761	unknown	1 <= x < 4 years	2	none	4	car or other	none	rent	2	skilled employee / official	1	none	yes	0	M
+no checking account	24	existing credits paid	new car	1249	x < 100 DM	x < 1 year	4	none	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	9	existing credits paid	radio/tv	1364	x < 100 DM	4 <= x < 7 years	3	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	12	existing credits paid	radio/tv	709	x < 100 DM	x >= 7 years	4	none	4	real estate	stores	own	1	unskilled-resident	1	none	yes	0	M
+x < 0 DM	20	critical accnt. / other credits	new car	2235	x < 100 DM	1 <= x < 4 years	4	guarantor	2	soc. savings / life insurance	bank	rent	2	skilled employee / official	1	none	no	0	M
+no checking account	24	critical accnt. / other credits	used car	4042	unknown	4 <= x < 7 years	3	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	15	critical accnt. / other credits	radio/tv	1471	x < 100 DM	1 <= x < 4 years	4	none	4	unknown	none	for free	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	18	all credits paid	new car	1442	x < 100 DM	4 <= x < 7 years	4	none	4	unknown	none	for free	2	unskilled-resident	2	none	yes	0	M
+no checking account	36	delay	new car	10875	x < 100 DM	x >= 7 years	2	none	2	car or other	none	own	2	skilled employee / official	2	yes	yes	1	M
+no checking account	24	existing credits paid	new car	1474	100 <= x < 500 DM	x < 1 year	4	none	3	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	10	existing credits paid	retraining	894	unknown	4 <= x < 7 years	4	none	3	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	F
+no checking account	15	critical accnt. / other credits	forniture	3343	x < 100 DM	1 <= x < 4 years	4	none	2	unknown	none	for free	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	15	existing credits paid	new car	3959	x < 100 DM	1 <= x < 4 years	3	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	0	F
+no checking account	9	existing credits paid	new car	3577	100 <= x < 500 DM	1 <= x < 4 years	1	guarantor	2	real estate	none	rent	1	skilled employee / official	2	none	no	1	M
+no checking account	24	critical accnt. / other credits	used car	5804	x >= 1000 DM	1 <= x < 4 years	4	none	2	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	18	delay	business	2169	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	24	existing credits paid	radio/tv	2439	x < 100 DM	x < 1 year	4	none	4	real estate	none	own	1	skilled employee / official	1	yes	yes	0	F
+no checking account	27	critical accnt. / other credits	forniture	4526	x >= 1000 DM	x < 1 year	4	none	2	real estate	stores	own	2	unskilled-resident	2	yes	yes	1	M
+no checking account	10	existing credits paid	forniture	2210	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	bank	rent	1	unskilled-resident	1	none	yes	0	M
+no checking account	15	existing credits paid	forniture	2221	500 <= x < 1000 DM	1 <= x < 4 years	2	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	18	existing credits paid	radio/tv	2389	x < 100 DM	x < 1 year	4	none	1	car or other	stores	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	12	critical accnt. / other credits	forniture	3331	x < 100 DM	x >= 7 years	2	none	4	soc. savings / life insurance	stores	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	36	existing credits paid	business	7409	unknown	x >= 7 years	3	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+x < 0 DM	12	existing credits paid	forniture	652	x < 100 DM	x >= 7 years	4	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	F
+no checking account	36	delay	forniture	7678	500 <= x < 1000 DM	4 <= x < 7 years	2	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	1	F
+x >= 200DM	6	critical accnt. / other credits	new car	1343	x < 100 DM	x >= 7 years	1	none	4	real estate	none	own	2	skilled employee / official	2	none	no	1	M
+x < 0 DM	24	critical accnt. / other credits	business	1382	100 <= x < 500 DM	4 <= x < 7 years	4	none	1	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	15	existing credits paid	appliances	874	unknown	x < 1 year	4	none	1	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	12	existing credits paid	forniture	3590	x < 100 DM	1 <= x < 4 years	2	co-applicant	2	soc. savings / life insurance	none	own	1	unskilled-resident	2	none	yes	1	M
+0 <= x < 200 DM	11	critical accnt. / other credits	new car	1322	x >= 1000 DM	1 <= x < 4 years	4	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	1	F
+x < 0 DM	18	all credits paid	radio/tv	1940	x < 100 DM	x < 1 year	3	co-applicant	4	unknown	bank	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	36	existing credits paid	radio/tv	3595	x < 100 DM	x >= 7 years	4	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	9	existing credits paid	new car	1422	x < 100 DM	x < 1 year	3	none	2	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	30	critical accnt. / other credits	radio/tv	6742	unknown	4 <= x < 7 years	2	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	used car	7814	x < 100 DM	4 <= x < 7 years	3	none	3	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	24	existing credits paid	used car	9277	unknown	1 <= x < 4 years	2	none	4	unknown	none	for free	1	skilled employee / official	1	yes	yes	1	M
+0 <= x < 200 DM	30	critical accnt. / other credits	new car	2181	unknown	x >= 7 years	4	none	4	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	1098	x < 100 DM	unemployed	4	none	4	car or other	none	own	2	unemployed / unskilled-non-resident	1	none	yes	1	F
+0 <= x < 200 DM	24	existing credits paid	forniture	4057	x < 100 DM	4 <= x < 7 years	3	none	3	car or other	none	own	1	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	12	existing credits paid	education	795	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	24	critical accnt. / other credits	business	2825	unknown	4 <= x < 7 years	4	none	3	unknown	none	own	2	skilled employee / official	2	yes	yes	1	M
+0 <= x < 200 DM	48	existing credits paid	business	15672	x < 100 DM	1 <= x < 4 years	2	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	0	M
+no checking account	36	critical accnt. / other credits	new car	6614	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	28	all credits paid	used car	7824	unknown	x < 1 year	3	guarantor	4	real estate	bank	rent	2	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	27	critical accnt. / other credits	business	2442	x < 100 DM	x >= 7 years	4	none	4	car or other	stores	own	4	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+no checking account	15	critical accnt. / other credits	radio/tv	1829	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	12	critical accnt. / other credits	new car	2171	x < 100 DM	1 <= x < 4 years	4	none	4	soc. savings / life insurance	bank	own	2	unskilled-resident	1	none	no	1	M
+0 <= x < 200 DM	36	critical accnt. / other credits	used car	5800	x < 100 DM	1 <= x < 4 years	3	none	4	car or other	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	18	critical accnt. / other credits	radio/tv	1169	unknown	1 <= x < 4 years	4	none	3	soc. savings / life insurance	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	36	delay	used car	8947	unknown	4 <= x < 7 years	3	none	2	car or other	stores	own	1	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+x < 0 DM	21	existing credits paid	radio/tv	2606	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+no checking account	12	critical accnt. / other credits	forniture	1592	x >= 1000 DM	4 <= x < 7 years	3	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	no	1	F
+no checking account	15	existing credits paid	forniture	2186	unknown	4 <= x < 7 years	1	none	4	real estate	bank	rent	1	unskilled-resident	1	none	yes	1	F
+x < 0 DM	18	existing credits paid	forniture	4153	x < 100 DM	1 <= x < 4 years	2	co-applicant	3	car or other	none	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	16	critical accnt. / other credits	new car	2625	x < 100 DM	x >= 7 years	2	guarantor	4	soc. savings / life insurance	bank	rent	1	skilled employee / official	1	yes	yes	0	M
+no checking account	20	critical accnt. / other credits	new car	3485	unknown	x < 1 year	2	none	4	real estate	none	own	2	skilled employee / official	1	yes	yes	1	M
+no checking account	36	critical accnt. / other credits	used car	10477	unknown	x >= 7 years	2	none	4	unknown	none	for free	2	skilled employee / official	1	none	yes	1	M
+no checking account	15	existing credits paid	radio/tv	1386	unknown	1 <= x < 4 years	4	none	2	real estate	none	rent	1	skilled employee / official	1	yes	yes	1	M
+no checking account	24	existing credits paid	radio/tv	1278	x < 100 DM	x >= 7 years	4	none	1	real estate	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	12	existing credits paid	radio/tv	1107	x < 100 DM	1 <= x < 4 years	2	none	2	real estate	none	rent	1	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+x < 0 DM	21	existing credits paid	new car	3763	unknown	4 <= x < 7 years	2	co-applicant	2	real estate	none	own	1	unskilled-resident	1	none	no	1	M
+0 <= x < 200 DM	36	existing credits paid	education	3711	unknown	1 <= x < 4 years	2	none	2	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	15	delay	used car	3594	x < 100 DM	x < 1 year	1	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	9	existing credits paid	new car	3195	unknown	1 <= x < 4 years	1	none	2	real estate	none	own	1	unskilled-resident	1	none	yes	1	F
+no checking account	36	delay	radio/tv	4454	x < 100 DM	1 <= x < 4 years	4	none	4	real estate	none	own	2	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	24	critical accnt. / other credits	forniture	4736	x < 100 DM	x < 1 year	2	none	4	car or other	bank	own	1	unskilled-resident	1	none	yes	0	F
+0 <= x < 200 DM	30	existing credits paid	radio/tv	2991	unknown	x >= 7 years	2	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+no checking account	11	existing credits paid	business	2142	x >= 1000 DM	x >= 7 years	1	none	2	real estate	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	24	all credits paid	business	3161	x < 100 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	rent	1	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	48	no credits	others	18424	x < 100 DM	1 <= x < 4 years	1	none	2	soc. savings / life insurance	bank	own	1	management / self-employed / highly qualified employee / officer	1	yes	no	0	F
+no checking account	10	existing credits paid	used car	2848	100 <= x < 500 DM	1 <= x < 4 years	1	co-applicant	2	real estate	none	own	1	skilled employee / official	2	none	yes	1	M
+x < 0 DM	6	existing credits paid	new car	14896	x < 100 DM	x >= 7 years	1	none	4	unknown	bank	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+x < 0 DM	24	existing credits paid	forniture	2359	100 <= x < 500 DM	unemployed	1	none	1	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	M
+x < 0 DM	24	existing credits paid	forniture	3345	x < 100 DM	x >= 7 years	4	none	2	soc. savings / life insurance	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+no checking account	18	critical accnt. / other credits	forniture	1817	x < 100 DM	1 <= x < 4 years	4	none	2	unknown	none	own	2	skilled employee / official	1	none	yes	1	F
+no checking account	48	delay	radio/tv	12749	500 <= x < 1000 DM	4 <= x < 7 years	4	none	1	car or other	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+x < 0 DM	9	existing credits paid	radio/tv	1366	x < 100 DM	x < 1 year	3	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	0	F
+0 <= x < 200 DM	12	existing credits paid	new car	2002	x < 100 DM	4 <= x < 7 years	3	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	24	all credits paid	forniture	6872	x < 100 DM	x < 1 year	2	none	1	soc. savings / life insurance	bank	own	1	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	12	all credits paid	new car	697	x < 100 DM	x < 1 year	4	none	2	car or other	bank	own	2	skilled employee / official	1	yes	yes	0	M
+x < 0 DM	18	critical accnt. / other credits	forniture	1049	x < 100 DM	x < 1 year	4	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	48	existing credits paid	used car	10297	x < 100 DM	4 <= x < 7 years	4	none	4	unknown	stores	for free	3	skilled employee / official	2	yes	yes	0	M
+no checking account	30	existing credits paid	radio/tv	1867	unknown	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	12	delay	new car	1344	x < 100 DM	1 <= x < 4 years	4	none	2	real estate	none	own	2	unskilled-resident	2	none	yes	1	M
+x < 0 DM	24	existing credits paid	forniture	1747	x < 100 DM	x < 1 year	4	co-applicant	1	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	no	1	M
+0 <= x < 200 DM	9	existing credits paid	radio/tv	1670	x < 100 DM	x < 1 year	4	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	0	F
+no checking account	9	critical accnt. / other credits	new car	1224	x < 100 DM	1 <= x < 4 years	3	none	1	real estate	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	12	critical accnt. / other credits	radio/tv	522	500 <= x < 1000 DM	x >= 7 years	4	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	2	yes	yes	1	M
+x < 0 DM	12	existing credits paid	radio/tv	1498	x < 100 DM	1 <= x < 4 years	4	none	1	car or other	bank	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	30	delay	radio/tv	1919	100 <= x < 500 DM	x < 1 year	4	none	3	unknown	stores	own	2	management / self-employed / highly qualified employee / officer	1	none	yes	0	M
+x >= 200DM	9	existing credits paid	radio/tv	745	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	1	unskilled-resident	1	none	yes	0	F
+0 <= x < 200 DM	6	existing credits paid	radio/tv	2063	x < 100 DM	x < 1 year	4	none	3	car or other	none	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	60	existing credits paid	education	6288	x < 100 DM	1 <= x < 4 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	0	M
+no checking account	24	critical accnt. / other credits	used car	6842	unknown	1 <= x < 4 years	2	none	4	soc. savings / life insurance	none	own	2	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+no checking account	12	existing credits paid	new car	3527	unknown	x < 1 year	2	none	3	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	2	yes	yes	1	M
+no checking account	10	existing credits paid	new car	1546	x < 100 DM	1 <= x < 4 years	3	none	2	real estate	none	own	1	unskilled-resident	2	none	no	1	M
+no checking account	24	existing credits paid	forniture	929	unknown	4 <= x < 7 years	4	none	2	car or other	stores	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	4	critical accnt. / other credits	new car	1455	x < 100 DM	4 <= x < 7 years	2	none	1	real estate	none	own	3	unskilled-resident	2	none	yes	1	M
+x < 0 DM	15	existing credits paid	forniture	1845	x < 100 DM	x < 1 year	4	guarantor	1	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	48	no credits	new car	8358	500 <= x < 1000 DM	x < 1 year	1	none	1	car or other	none	own	2	skilled employee / official	1	none	yes	1	F
+x < 0 DM	24	all credits paid	forniture	3349	500 <= x < 1000 DM	x < 1 year	4	none	4	unknown	none	for free	1	skilled employee / official	2	yes	yes	0	M
+no checking account	12	existing credits paid	new car	2859	unknown	unemployed	4	none	4	unknown	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	18	existing credits paid	forniture	1533	x < 100 DM	x < 1 year	4	co-applicant	1	soc. savings / life insurance	none	own	1	unskilled-resident	2	none	yes	0	M
+no checking account	24	existing credits paid	radio/tv	3621	100 <= x < 500 DM	x >= 7 years	2	none	4	car or other	none	own	2	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	18	critical accnt. / other credits	business	3590	x < 100 DM	unemployed	3	none	3	car or other	none	own	3	unemployed / unskilled-non-resident	2	yes	yes	1	M
+x < 0 DM	36	delay	business	2145	x < 100 DM	4 <= x < 7 years	2	none	1	car or other	none	own	2	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	24	existing credits paid	used car	4113	500 <= x < 1000 DM	x < 1 year	3	none	4	car or other	none	rent	1	skilled employee / official	1	none	yes	0	F
+no checking account	36	existing credits paid	forniture	10974	x < 100 DM	unemployed	4	none	2	car or other	none	own	2	management / self-employed / highly qualified employee / officer	1	yes	yes	0	F
+x < 0 DM	12	existing credits paid	new car	1893	x < 100 DM	1 <= x < 4 years	4	guarantor	4	soc. savings / life insurance	none	own	1	skilled employee / official	1	yes	yes	1	F
+x < 0 DM	24	critical accnt. / other credits	radio/tv	1231	x >= 1000 DM	x >= 7 years	4	none	4	soc. savings / life insurance	none	rent	2	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+x >= 200DM	30	critical accnt. / other credits	radio/tv	3656	unknown	x >= 7 years	4	none	4	soc. savings / life insurance	stores	own	2	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	9	critical accnt. / other credits	radio/tv	1154	x < 100 DM	x >= 7 years	2	none	4	real estate	none	own	3	unskilled-resident	1	none	yes	1	M
+x < 0 DM	28	existing credits paid	new car	4006	x < 100 DM	1 <= x < 4 years	3	none	2	car or other	none	own	1	unskilled-resident	1	none	yes	0	M
+0 <= x < 200 DM	24	existing credits paid	forniture	3069	100 <= x < 500 DM	x >= 7 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	none	yes	1	M
+no checking account	6	critical accnt. / other credits	radio/tv	1740	x < 100 DM	x >= 7 years	2	none	2	real estate	none	rent	2	skilled employee / official	1	none	yes	1	M
+0 <= x < 200 DM	21	delay	new car	2353	x < 100 DM	1 <= x < 4 years	1	none	4	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	15	existing credits paid	new car	3556	unknown	1 <= x < 4 years	3	none	2	unknown	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	radio/tv	2397	500 <= x < 1000 DM	x >= 7 years	3	none	2	car or other	bank	own	2	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	6	existing credits paid	repairs	454	x < 100 DM	x < 1 year	3	none	1	soc. savings / life insurance	none	own	1	unskilled-resident	1	none	yes	1	M
+0 <= x < 200 DM	30	existing credits paid	radio/tv	1715	unknown	1 <= x < 4 years	4	none	1	car or other	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	27	critical accnt. / other credits	radio/tv	2520	500 <= x < 1000 DM	1 <= x < 4 years	4	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	0	M
+no checking account	15	existing credits paid	radio/tv	3568	x < 100 DM	x >= 7 years	4	none	2	car or other	bank	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+no checking account	42	existing credits paid	radio/tv	7166	unknown	4 <= x < 7 years	2	none	4	soc. savings / life insurance	none	rent	1	skilled employee / official	1	yes	yes	1	M
+x < 0 DM	11	critical accnt. / other credits	new car	3939	x < 100 DM	1 <= x < 4 years	1	none	2	real estate	none	own	2	unskilled-resident	2	none	yes	1	M
+0 <= x < 200 DM	15	existing credits paid	repairs	1514	100 <= x < 500 DM	1 <= x < 4 years	4	guarantor	2	real estate	none	own	1	skilled employee / official	1	none	yes	1	M
+no checking account	24	existing credits paid	new car	7393	x < 100 DM	1 <= x < 4 years	1	none	4	soc. savings / life insurance	none	own	1	unskilled-resident	2	none	yes	1	M
+x < 0 DM	24	all credits paid	new car	1193	x < 100 DM	unemployed	1	co-applicant	4	unknown	none	rent	2	unemployed / unskilled-non-resident	1	none	yes	0	F
+x < 0 DM	60	existing credits paid	business	7297	x < 100 DM	x >= 7 years	4	co-applicant	4	unknown	none	rent	1	skilled employee / official	1	none	yes	0	M
+no checking account	30	critical accnt. / other credits	radio/tv	2831	x < 100 DM	1 <= x < 4 years	4	none	2	car or other	none	own	1	skilled employee / official	1	yes	yes	1	F
+x >= 200DM	24	existing credits paid	radio/tv	1258	500 <= x < 1000 DM	1 <= x < 4 years	3	none	3	car or other	none	own	1	unskilled-resident	1	none	yes	1	F
+0 <= x < 200 DM	6	existing credits paid	radio/tv	753	x < 100 DM	1 <= x < 4 years	2	guarantor	3	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+0 <= x < 200 DM	18	delay	business	2427	unknown	x >= 7 years	4	none	2	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	24	delay	new car	2538	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	2	unskilled-resident	2	none	yes	0	M
+0 <= x < 200 DM	15	all credits paid	new car	1264	100 <= x < 500 DM	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	rent	1	skilled employee / official	1	none	yes	0	M
+0 <= x < 200 DM	30	critical accnt. / other credits	forniture	8386	x < 100 DM	4 <= x < 7 years	2	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	1	none	yes	0	M
+no checking account	48	existing credits paid	business	4844	x < 100 DM	unemployed	3	none	2	car or other	bank	rent	1	management / self-employed / highly qualified employee / officer	1	yes	yes	0	M
+x >= 200DM	21	existing credits paid	new car	2923	100 <= x < 500 DM	1 <= x < 4 years	1	none	1	car or other	bank	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	F
+x < 0 DM	36	existing credits paid	used car	8229	x < 100 DM	1 <= x < 4 years	2	none	2	soc. savings / life insurance	none	own	1	skilled employee / official	2	none	yes	0	M
+no checking account	24	critical accnt. / other credits	forniture	2028	x < 100 DM	4 <= x < 7 years	2	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	M
+x < 0 DM	15	critical accnt. / other credits	forniture	1433	x < 100 DM	1 <= x < 4 years	4	none	3	soc. savings / life insurance	none	rent	2	skilled employee / official	1	none	yes	1	F
+x >= 200DM	42	no credits	business	6289	x < 100 DM	x < 1 year	2	none	1	soc. savings / life insurance	none	own	2	skilled employee / official	1	none	yes	1	M
+no checking account	13	existing credits paid	radio/tv	1409	100 <= x < 500 DM	unemployed	2	none	4	real estate	none	own	1	skilled employee / official	1	none	yes	1	F
+x < 0 DM	24	existing credits paid	used car	6579	x < 100 DM	unemployed	4	none	2	unknown	none	for free	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+0 <= x < 200 DM	24	critical accnt. / other credits	radio/tv	1743	x < 100 DM	x >= 7 years	4	none	2	soc. savings / life insurance	none	own	2	unskilled-resident	1	none	yes	1	M
+no checking account	12	critical accnt. / other credits	education	3565	unknown	x < 1 year	2	none	1	soc. savings / life insurance	none	own	2	unskilled-resident	2	none	yes	1	M
+no checking account	15	all credits paid	radio/tv	1569	100 <= x < 500 DM	x >= 7 years	4	none	4	car or other	bank	own	1	unskilled-resident	2	none	yes	1	M
+x < 0 DM	18	existing credits paid	radio/tv	1936	unknown	4 <= x < 7 years	2	none	4	car or other	none	rent	2	unskilled-resident	1	none	yes	1	M
+x < 0 DM	36	existing credits paid	forniture	3959	x < 100 DM	unemployed	4	none	3	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	12	existing credits paid	new car	2390	unknown	x >= 7 years	4	none	3	car or other	none	own	1	skilled employee / official	1	yes	yes	1	M
+no checking account	12	existing credits paid	forniture	1736	x < 100 DM	4 <= x < 7 years	3	none	4	real estate	none	own	1	unskilled-resident	1	none	yes	1	F
+x < 0 DM	30	existing credits paid	used car	3857	x < 100 DM	1 <= x < 4 years	4	none	4	soc. savings / life insurance	none	own	1	management / self-employed / highly qualified employee / officer	1	yes	yes	1	M
+no checking account	12	existing credits paid	radio/tv	804	x < 100 DM	x >= 7 years	4	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
+x < 0 DM	45	existing credits paid	radio/tv	1845	x < 100 DM	1 <= x < 4 years	4	none	4	unknown	none	for free	1	skilled employee / official	1	yes	yes	0	M
+0 <= x < 200 DM	45	critical accnt. / other credits	used car	4576	100 <= x < 500 DM	unemployed	3	none	4	car or other	none	own	1	skilled employee / official	1	none	yes	1	M
