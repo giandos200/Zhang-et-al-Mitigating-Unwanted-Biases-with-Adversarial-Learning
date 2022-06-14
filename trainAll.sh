@@ -2,7 +2,7 @@
 
 declare -a StringArray=(
 'adult_gender_TF2'
-'adult_gender_torch'
+'adult_gender_Torch'
 'adult_marital-status_TF2'
 'adult_marital-status_Torch'
 'german_gender_TF2'

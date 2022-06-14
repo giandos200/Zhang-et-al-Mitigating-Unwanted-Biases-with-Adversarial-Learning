@@ -45,7 +45,7 @@ class adversary_model(nn.Module):
 
 
     def forward(self,pred_logits, true_labels):
-        s = self.sigmoid((1+torch.abs(self.c)) * pred_logits)
+        s = self.sigmoid((1+torch.abs(self.c.to(pred_logits.device))) * pred_logits)
         pred_protected_attribute_logits = self.FC1(torch.cat([s, s * true_labels, s * (1.0 - true_labels)],1))
         pred_protected_attribute_labels = self.sigmoid(pred_protected_attribute_logits)
         return pred_protected_attribute_labels, pred_protected_attribute_logits
