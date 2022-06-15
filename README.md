@@ -15,6 +15,7 @@ Following, the instruction to install the correct packages for running the exper
 run:
 
 ```bash
+#sudo chmod +x create_venv.sh + User_password if Permission Denied 
 ./create_venv.sh
 ```
 
@@ -33,6 +34,7 @@ To train and evaluate all the dataset on a Deep Neural Network with/without Adve
 Difference in Equal Opportunity, and Difference in Average Odds, run the following command:
 
 ```bash
+#sudo chmod +x trainAll.sh + User_password if Permission Denied 
 ./trainAll.sh
 ```
 
