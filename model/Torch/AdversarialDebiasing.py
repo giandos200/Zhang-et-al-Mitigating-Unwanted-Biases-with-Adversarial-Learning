@@ -131,7 +131,7 @@ class AdversarialDebiasing(BaseEstimator, ClassifierMixin):
         self.protected_attributes_ph = None
         self.true_labels_ph = None
         self.pred_labels = None
-        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        self.device = torch.device('cuda:1' if torch.cuda.is_available() else 'cpu')
 
     def set_all_seed(self, seed):
         os.environ["PL_GLOBAL_SEED"] = str(seed)

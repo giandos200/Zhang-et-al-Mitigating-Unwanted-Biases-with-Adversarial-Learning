@@ -48,7 +48,16 @@ def train_PIPELINE(DF,sensitive_feature,Backend,debiased=True):
                                  classifier_num_hidden_units=256, random_state=42,debias=debiased)
     pipeline = Pipeline(steps=[('preprocessor', transformations),
                                ('classifier', clf)])
+    start = time.time()
     pipeline.fit(x_train,y_train)
+    end = time.time()
+    total = end - start
+    if debiased:
+        CLF_type = 'Adversarial Debiasing'
+    else:
+        CLF_type = 'Biased Classification'
+    print(f"{CLF_type} with {Backend} Backend Training completed in {total} seconds!")
+
 
     print("\nTrain Results\n")
     y_pred = pipeline.predict(x_train)
@@ -57,19 +66,24 @@ def train_PIPELINE(DF,sensitive_feature,Backend,debiased=True):
     DAO = DifferenceAverageOdds(y_pred, y_train, sensitive_feature, classification, 1, 0, [0, 1])
     print(f'\nTrain Acc: {ACC}, \nDiff. Equal Opportunity: {DEO}, \nDiff. in Average Odds: {DAO}')
 
+    start = time.time()
     print("\nTest Results\n")
     y_pred = pipeline.predict(x_test)
     ACC = accuracy_score(y_test[classification], y_pred)
     DEO = DifferenceEqualOpportunity(y_pred, y_test, sensitive_feature, classification, 1, 0, [0, 1])
     DAO = DifferenceAverageOdds(y_pred, y_test, sensitive_feature, classification, 1, 0, [0, 1])
     print(f'\nTest Acc: {ACC}, \nDiff. Equal Opportunity: {DEO}, \nDiff. in Average Odds: {DAO}')
+    end = time.time()
+    total = end - start
+    print(f"{CLF_type} with {Backend} Backend Inference completed in {total} seconds!")
+
 
 if __name__=='__main__':
     info = sys.argv[1].split('_')
     dataframe = info[0]
     sensitive_feature = info[1]
     Backend = info[2]
-    start = time.time()
+
     train_PIPELINE(
         DF=dataframe,
         sensitive_feature=sensitive_feature,
@@ -82,6 +96,3 @@ if __name__=='__main__':
         Backend=Backend,
         debiased=True
     )
-    end = time.time()
-    total = end-start
-    print(f"Adversarial Debiasing with {Backend} Backend completed in {total} seconds!")
