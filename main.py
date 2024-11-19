@@ -31,7 +31,7 @@ def train_PIPELINE(DF,sensitive_feature,Backend,debiased=True):
         steps=[('scaler', StandardScaler())])
 
     categorical_transformer = Pipeline(
-        steps=[('onehot', OneHotEncoder(handle_unknown='ignore', sparse=False))])
+        steps=[('onehot', OneHotEncoder(handle_unknown='ignore', sparse_output=False))])
 
     transformations = ColumnTransformer(
         transformers=[
