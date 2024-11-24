@@ -380,9 +380,9 @@ class AdversarialDebiasing(BaseEstimator, ClassifierMixin):
         scores = self.decision_function(X)
         if scores.ndim == 1:
             if X.shape[0]==1:
-                indices = (scores > 0.5).astype(np.int).reshape((-1,))
+                indices = (scores > 0.5).astype(int).reshape((-1,))
             else:
-                indices = (scores > 0.5).astype(np.int).reshape((-1,))
+                indices = (scores > 0.5).astype(int).reshape((-1,))
         else:
             indices = scores.argmax(axis=1)
         return self.classes_[indices]
